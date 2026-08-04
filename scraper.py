@@ -19,7 +19,7 @@ fg.link(href=url, rel='alternate')
 # Texas County and bordering counties
 TARGET_COUNTIES = {
     "TEXAS",
-    "PHELPS"
+    "PHELPS",
     "DENT",
     "SHANNON",
     "HOWELL",
@@ -57,7 +57,7 @@ if table:
                     if href.startswith('http'):
                         report_link = href
                     else:
-                        report_link = f"https://www.mshp.dps.missouri.gov/HP71/{href.lstrip('/')}"
+                        report_link = f"https://www.mshp.dps.missouri.gov/HP71/{href.lstrip('/')}".replace('/HP71/HP71/', '/HP71/')
 
                 fe = fg.add_entry()
                 fe.id(f"{name.replace(' ', '_')}_{arrest_date}_{arrest_time}")
