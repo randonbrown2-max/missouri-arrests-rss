@@ -21,11 +21,21 @@ table = soup.find('table')
 if table:
     rows = table.find_all('tr')
     for row in rows:
-        cols = [td.text.strip() for td in row.find_all('td')]
+        tds = row.find_all('td')
+        cols = [td.text.strip() for td in tds]
         
-        # Ensure row has 8 columns and ignore header rows
-        if len(cols) >= 8 and not cols[1].startswith('Name'):
-            details_text = cols[0]  # "View details for report..."
+        # Must have at least 8 columns and avoid header rows
+        if len(cols) >= 8 and not cols[1].lower().startswith('name'):
+            # Index breakdown:
+            # cols[0] = Link text ("View details for report...")
+            # cols[1] = Name
+            # cols[2] = Age
+            # cols[3] = Person City/State
+            # cols[4] = Arrest Date
+            # cols[5] = Arrest Time
+            # cols[6] = Arrest County
+            # cols[7] = Troop
+            
             name = cols[1]
             age = cols[2]
             city_state = cols[3]
@@ -34,6 +44,15 @@ if table:
             county = cols[6]
             troop = cols[7]
             
+            # Extract individual report detail URL if present
+            report_link = url
+            if tds[0].find('a') and tds[0].find('a').get('href'):
+                href = tds[0].find('a')['href']
+                if href.startswith('http'):
+                    report_link = href
+                else:
+                    report_link = f"https://www.mshp.dps.missouri.gov/HP71/{href.lstrip('/')}"
+
             fe = fg.add_entry()
             # Unique entry ID
             fe.id(f"{name.replace(' ', '_')}_{arrest_date}_{arrest_time}")
@@ -43,7 +62,7 @@ if table:
                 f"<strong>Date/Time:</strong> {arrest_date} {arrest_time}<br/>"
                 f"<strong>County/Troop:</strong> {county} County (Troop {troop})"
             )
-            fe.link(href=url)
+            fe.link(href=report_link)
 
 # Save the RSS file
 fg.rss_file('missouri_arrests.xml', pretty=True)
