@@ -67,9 +67,9 @@ if table:
                 fe.id(f"{name.replace(' ', '_')}_{arrest_date}_{arrest_time}")
                 fe.title(f"{name} (Age: {age})")
                 fe.description(
-                    f"<p><strong>City/State:</strong> {city_state}</p>"
-                    f"<p><strong>Date/Time:</strong> {arrest_date} {arrest_time}</p>"
-                    f"<p><strong>County/Troop:</strong> {raw_county} County (Troop {troop})</p>"
+                    f"<div><strong>City/State:</strong> {city_state}</div>"
+                    f"<div><strong>Date/Time:</strong> {arrest_date} {arrest_time}</div>"
+                    f"<div><strong>County/Troop:</strong> {raw_county} County (Troop {troop})</div>"
                 )
                 fe.link(href=report_link)
 
