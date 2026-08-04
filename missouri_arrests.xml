@@ -6,31 +6,31 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 18:56:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 21:11:43 +0000</lastBuildDate>
     <item>
       <title>SCHMIDT, SARA J (Age: 48)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537128I#r35</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537128I#r32</link>
       <description>City/State: EDGAR SPRINGS  •  Date/Time: 08/03/2026 at 9:49PM  •  County: DENT (Troop I)</description>
       <guid isPermaLink="false">SCHMIDT,_SARA_J_08/03/2026_9:49PM</guid>
       <category>DENT County</category>
     </item>
     <item>
       <title>TROLINGER, FLOYD W (Age: 60)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537115I#r24</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537115I#r21</link>
       <description>City/State: SALEM, MO  •  Date/Time: 08/03/2026 at 7:20PM  •  County: DENT (Troop I)</description>
       <guid isPermaLink="false">TROLINGER,_FLOYD_W_08/03/2026_7:20PM</guid>
       <category>DENT County</category>
     </item>
     <item>
       <title>VIOLET, DAKOTA L (Age: 29)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537108G#r20</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537108G#r17</link>
       <description>City/State: WEST PLAINS, MO  •  Date/Time: 08/03/2026 at 5:03PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">VIOLET,_DAKOTA_L_08/03/2026_5:03PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>FOLSOM, LEROY O (Age: 40)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537084G#r8</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537084G#r5</link>
       <description>City/State: WEST PLAINS, MO  •  Date/Time: 08/03/2026 at 9:33AM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">FOLSOM,_LEROY_O_08/03/2026_9:33AM</guid>
       <category>HOWELL County</category>
