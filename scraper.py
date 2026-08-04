@@ -23,15 +23,16 @@ if table:
     for row in rows:
         cols = [td.text.strip() for td in row.find_all('td')]
         
-        # Ensure row is a valid data row (at least 7 columns and not the header text)
-        if len(cols) >= 7 and cols[0] != 'Name' and cols[0] != 'Arrest':
-            name = cols[0]
-            age = cols[1]
-            city_state = cols[2]
-            arrest_date = cols[3]
-            arrest_time = cols[4]
-            county = cols[5]
-            troop = cols[6]
+        # Ensure row has 8 columns and ignore header rows
+        if len(cols) >= 8 and not cols[1].startswith('Name'):
+            details_text = cols[0]  # "View details for report..."
+            name = cols[1]
+            age = cols[2]
+            city_state = cols[3]
+            arrest_date = cols[4]
+            arrest_time = cols[5]
+            county = cols[6]
+            troop = cols[7]
             
             fe = fg.add_entry()
             # Unique entry ID
