@@ -31,4 +31,4 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add missouri_arrests.xml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated RSS Feed Update" && git pull --rebase origin main && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated RSS Feed Update" && git pull --rebase -Xours origin main && git push)
