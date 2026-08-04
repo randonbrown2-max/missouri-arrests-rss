@@ -39,10 +39,7 @@ if table:
         
         # Must have at least 8 columns and avoid header rows
         if len(cols) >= 8 and not cols[1].lower().startswith('name'):
-            # Normalize county string (remove extra spaces and force uppercase)
             raw_county = cols[6].strip().upper()
-            
-            # Check if any target county matches
             matched_county = next((c for c in TARGET_COUNTIES if c in raw_county), None)
             
             if matched_county:
@@ -53,7 +50,11 @@ if table:
                 arrest_time = cols[5]
                 troop = cols[7]
                 
-                # Extract individual report detail URL if present
+                # Extract extra columns if present in the row
+                # (e.g., location/charges if listed in column 8 or beyond)
+                extra_info = cols[8] if len(cols) > 8 else "N/A"
+                
+                # Extract individual report detail URL
                 report_link = url
                 if tds[0].find('a') and tds[0].find('a').get('href'):
                     href = tds[0].find('a')['href']
@@ -66,11 +67,17 @@ if table:
                 fe = fg.add_entry()
                 fe.id(f"{name.replace(' ', '_')}_{arrest_date}_{arrest_time}")
                 fe.title(f"{name} (Age: {age})")
+                
+                # Clean inline layout with clear bullet separators
                 fe.description(
-                    f"<div><strong>City/State:</strong> {city_state}</div>"
-                    f"<div><strong>Date/Time:</strong> {arrest_date} {arrest_time}</div>"
-                    f"<div><strong>County/Troop:</strong> {raw_county} County (Troop {troop})</div>"
+                    f"City/State: {city_state}  •  "
+                    f"Date/Time: {arrest_date} at {arrest_time}  •  "
+                    f"County: {raw_county} (Troop {troop})"
                 )
+                
+                # Attach extra metadata tags
+                fe.author(name=f"MSHP Troop {troop}")
+                fe.category(term=f"{raw_county} County")
                 fe.link(href=report_link)
 
 # Save the RSS file
