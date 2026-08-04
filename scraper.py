@@ -26,16 +26,6 @@ if table:
         
         # Must have at least 8 columns and avoid header rows
         if len(cols) >= 8 and not cols[1].lower().startswith('name'):
-            # Index breakdown:
-            # cols[0] = Link text ("View details for report...")
-            # cols[1] = Name
-            # cols[2] = Age
-            # cols[3] = Person City/State
-            # cols[4] = Arrest Date
-            # cols[5] = Arrest Time
-            # cols[6] = Arrest County
-            # cols[7] = Troop
-            
             name = cols[1]
             age = cols[2]
             city_state = cols[3]
@@ -54,11 +44,12 @@ if table:
                     report_link = f"https://www.mshp.dps.missouri.gov/HP71/{href.lstrip('/')}"
 
             fe = fg.add_entry()
-            # Unique entry ID
             fe.id(f"{name.replace(' ', '_')}_{arrest_date}_{arrest_time}")
             fe.title(f"{name} (Age: {age})")
+            
+            # Updated description with extra spacing between lines
             fe.description(
-                f"<strong>City/State:</strong> {city_state}<br/>"
+                f"<strong>City/State:</strong> {city_state}<br/><br/>"
                 f"<strong>Date/Time:</strong> {arrest_date} {arrest_time}<br/>"
                 f"<strong>County/Troop:</strong> {county} County (Troop {troop})"
             )
