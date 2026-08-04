@@ -12,8 +12,8 @@ soup = BeautifulSoup(response.text, 'html.parser')
 
 fg = FeedGenerator()
 fg.id(url)
-fg.title('Missouri MSHP Arrest Reports')
-fg.description('Automated RSS stream parsing the latest 5-day highway patrol arrest logs.')
+fg.title('Missouri MSHP Arrest Reports - Texas County')
+fg.description('Automated RSS stream parsing the latest 5-day highway patrol arrest logs for Texas County, MO.')
 fg.link(href=url, rel='alternate')
 
 # Find the main data table
@@ -26,35 +26,36 @@ if table:
         
         # Must have at least 8 columns and avoid header rows
         if len(cols) >= 8 and not cols[1].lower().startswith('name'):
-            name = cols[1]
-            age = cols[2]
-            city_state = cols[3]
-            arrest_date = cols[4]
-            arrest_time = cols[5]
             county = cols[6]
-            troop = cols[7]
             
-            # Extract individual report detail URL if present
-            report_link = url
-            if tds[0].find('a') and tds[0].find('a').get('href'):
-                href = tds[0].find('a')['href']
-                if href.startswith('http'):
-                    report_link = href
-                else:
-                    report_link = f"https://www.mshp.dps.missouri.gov/HP71/{href.lstrip('/')}"
+            # Filter specifically for Texas County
+            if county.upper() == "TEXAS":
+                name = cols[1]
+                age = cols[2]
+                city_state = cols[3]
+                arrest_date = cols[4]
+                arrest_time = cols[5]
+                troop = cols[7]
+                
+                # Extract individual report detail URL if present
+                report_link = url
+                if tds[0].find('a') and tds[0].find('a').get('href'):
+                    href = tds[0].find('a')['href']
+                    if href.startswith('http'):
+                        report_link = href
+                    else:
+                        report_link = f"https://www.mshp.dps.missouri.gov/HP71/{href.lstrip('/')}"
 
-            fe = fg.add_entry()
-            fe.id(f"{name.replace(' ', '_')}_{arrest_date}_{arrest_time}")
-            fe.title(f"{name} (Age: {age})")
-            
-            # Updated description with extra spacing between lines
-            fe.description(
-                f"<strong>City/State:</strong> {city_state}<br/><br/>"
-                f"<strong>Date/Time:</strong> {arrest_date} {arrest_time}<br/>"
-                f"<strong>County/Troop:</strong> {county} County (Troop {troop})"
-            )
-            fe.link(href=report_link)
+                fe = fg.add_entry()
+                fe.id(f"{name.replace(' ', '_')}_{arrest_date}_{arrest_time}")
+                fe.title(f"{name} (Age: {age})")
+                fe.description(
+                    f"<strong>City/State:</strong> {city_state}<br/><br/>"
+                    f"<strong>Date/Time:</strong> {arrest_date} {arrest_time}<br/>"
+                    f"<strong>County/Troop:</strong> {county} County (Troop {troop})"
+                )
+                fe.link(href=report_link)
 
 # Save the RSS file
 fg.rss_file('missouri_arrests.xml', pretty=True)
-print("RSS Feed updated successfully.")
+print("RSS Feed updated successfully for Texas County.")
