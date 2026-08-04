@@ -6,29 +6,29 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 18:29:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:35:11 +0000</lastBuildDate>
     <item>
       <title>SCHMIDT, SARA J (Age: 48)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537128I#r35</link>
-      <description>&lt;p&gt;&lt;strong&gt;City/State:&lt;/strong&gt; EDGAR SPRINGS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 9:49PM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;County/Troop:&lt;/strong&gt; DENT County (Troop I)&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;strong&gt;City/State:&lt;/strong&gt; EDGAR SPRINGS&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 9:49PM&lt;/div&gt;&lt;div&gt;&lt;strong&gt;County/Troop:&lt;/strong&gt; DENT County (Troop I)&lt;/div&gt;</description>
       <guid isPermaLink="false">SCHMIDT,_SARA_J_08/03/2026_9:49PM</guid>
     </item>
     <item>
       <title>TROLINGER, FLOYD W (Age: 60)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537115I#r24</link>
-      <description>&lt;p&gt;&lt;strong&gt;City/State:&lt;/strong&gt; SALEM, MO&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 7:20PM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;County/Troop:&lt;/strong&gt; DENT County (Troop I)&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;strong&gt;City/State:&lt;/strong&gt; SALEM, MO&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 7:20PM&lt;/div&gt;&lt;div&gt;&lt;strong&gt;County/Troop:&lt;/strong&gt; DENT County (Troop I)&lt;/div&gt;</description>
       <guid isPermaLink="false">TROLINGER,_FLOYD_W_08/03/2026_7:20PM</guid>
     </item>
     <item>
       <title>VIOLET, DAKOTA L (Age: 29)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537108G#r20</link>
-      <description>&lt;p&gt;&lt;strong&gt;City/State:&lt;/strong&gt; WEST PLAINS, MO&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 5:03PM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;County/Troop:&lt;/strong&gt; HOWELL County (Troop G)&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;strong&gt;City/State:&lt;/strong&gt; WEST PLAINS, MO&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 5:03PM&lt;/div&gt;&lt;div&gt;&lt;strong&gt;County/Troop:&lt;/strong&gt; HOWELL County (Troop G)&lt;/div&gt;</description>
       <guid isPermaLink="false">VIOLET,_DAKOTA_L_08/03/2026_5:03PM</guid>
     </item>
     <item>
       <title>FOLSOM, LEROY O (Age: 40)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537084G#r8</link>
-      <description>&lt;p&gt;&lt;strong&gt;City/State:&lt;/strong&gt; WEST PLAINS, MO&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 9:33AM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;County/Troop:&lt;/strong&gt; HOWELL County (Troop G)&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;strong&gt;City/State:&lt;/strong&gt; WEST PLAINS, MO&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 9:33AM&lt;/div&gt;&lt;div&gt;&lt;strong&gt;County/Troop:&lt;/strong&gt; HOWELL County (Troop G)&lt;/div&gt;</description>
       <guid isPermaLink="false">FOLSOM,_LEROY_O_08/03/2026_9:33AM</guid>
     </item>
   </channel>
