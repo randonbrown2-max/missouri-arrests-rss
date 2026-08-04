@@ -19,6 +19,7 @@ fg.link(href=url, rel='alternate')
 # Texas County and bordering counties
 TARGET_COUNTIES = {
     "TEXAS",
+    "PHELPS"
     "DENT",
     "SHANNON",
     "HOWELL",
