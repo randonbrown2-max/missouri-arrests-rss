@@ -35,14 +35,17 @@ if table:
     rows = table.find_all('tr')
     for row in rows:
         tds = row.find_all('td')
-        cols = [td.text.strip() for td in tds]
+        cols = [td.text.strip().replace('\xa0', ' ') for td in tds]
         
         # Must have at least 8 columns and avoid header rows
         if len(cols) >= 8 and not cols[1].lower().startswith('name'):
-            county = cols[6]
+            # Normalize county string (remove extra spaces and force uppercase)
+            raw_county = cols[6].strip().upper()
             
-            # Filter for Texas County and surrounding area
-            if county.upper() in TARGET_COUNTIES:
+            # Check if any target county matches
+            matched_county = next((c for c in TARGET_COUNTIES if c in raw_county), None)
+            
+            if matched_county:
                 name = cols[1]
                 age = cols[2]
                 city_state = cols[3]
@@ -64,9 +67,9 @@ if table:
                 fe.id(f"{name.replace(' ', '_')}_{arrest_date}_{arrest_time}")
                 fe.title(f"{name} (Age: {age})")
                 fe.description(
-                    f"<strong>City/State:</strong> {city_state}<br/><br/>"
-                    f"<strong>Date/Time:</strong> {arrest_date} {arrest_time}<br/>"
-                    f"<strong>County/Troop:</strong> {county} County (Troop {troop})"
+                    f"<p><strong>City/State:</strong> {city_state}</p>"
+                    f"<p><strong>Date/Time:</strong> {arrest_date} {arrest_time}</p>"
+                    f"<p><strong>County/Troop:</strong> {raw_county} County (Troop {troop})</p>"
                 )
                 fe.link(href=report_link)
 
