@@ -23,15 +23,21 @@ if table:
     rows = table.find_all('tr')
     # Loop rows skipping the header
     for row in rows[1:]:
-        cols = [td.text.strip() for td in row.find_all('td')]
-        if len(cols) >= 4:
-            name, age, arrest_date, charge = cols[0], cols[1], cols[2], cols[3]
-            
-            fe = fg.add_entry()
-            fe.id(f"{name.replace(' ', '_')}_{arrest_date}")
-            fe.title(f"Arrest: {name} (Age: {age})")
-            fe.description(f"Date: {arrest_date} <br/> Charges: {charge}")
-            fe.link(href=url)
+            cols = [td.text.strip() for td in row.find_all('td')]
+            # MSHP arrest table has at least 7 relevant columns
+            if len(cols) >= 7:
+                name = cols[0]
+                age = cols[1]
+                city_state = cols[2]
+                arrest_date = cols[4]  # Column 4 is the actual Date
+                arrest_time = cols[5]  # Column 5 is the Time
+                charges = cols[6]      # Column 6 is Charges
+                
+                fe = fg.add_entry()
+                fe.id(f"{name.replace(' ', '_')}_{arrest_date}")
+                fe.title(f"{name} (Age: {age})")
+                fe.description(f"<strong>Location:</strong> {city_state}<br/><strong>Date/Time:</strong> {arrest_date} {arrest_time}<br/><strong>Charges:</strong> {charges}")
+                fe.link(href=url)
 
 # Save the RSS file to the root directory
 fg.rss_file('missouri_arrests.xml', pretty=True)
