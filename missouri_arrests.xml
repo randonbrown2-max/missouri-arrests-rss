@@ -6,306 +6,306 @@
     <description>Automated RSS stream parsing the latest 5-day highway patrol arrest logs.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 14:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:52:21 +0000</lastBuildDate>
     <item>
-      <title>Arrest: View details for report I537147D, person 50 (Age: HERNANDEZ GARCIA, DIEGO E)</title>
+      <title>View details for report I537147D, person 50 (Age: HERNANDEZ GARCIA, DIEGO E)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 22 &lt;br/&gt; Charges: CARTHAGE, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537147D,_person_50_22</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 22&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/04/2026 6:00AM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; JASPER</description>
+      <guid isPermaLink="false">View_details_for_report_I537147D,_person_50_08/04/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537145C, person 49 (Age: KUBIAK, KYLE A)</title>
+      <title>View details for report I537145C, person 49 (Age: KUBIAK, KYLE A)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 34 &lt;br/&gt; Charges: ELSBERRY, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537145C,_person_49_34</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 34&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/04/2026 5:50AM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; LINCOLN</description>
+      <guid isPermaLink="false">View_details_for_report_I537145C,_person_49_08/04/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537140C, person 48 (Age: NEAL, TIMOTHY W)</title>
+      <title>View details for report I537140C, person 48 (Age: NEAL, TIMOTHY W)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 35 &lt;br/&gt; Charges: GERALD, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537140C,_person_48_35</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 35&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/04/2026 2:27AM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; ST. CHARLES</description>
+      <guid isPermaLink="false">View_details_for_report_I537140C,_person_48_08/04/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537139A, person 47 (Age: BELL, TREY G)</title>
+      <title>View details for report I537139A, person 47 (Age: BELL, TREY G)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 36 &lt;br/&gt; Charges: BLUE SPRINGS, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537139A,_person_47_36</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 36&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/04/2026 2:06AM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; JACKSON</description>
+      <guid isPermaLink="false">View_details_for_report_I537139A,_person_47_08/04/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537143F, person 46 (Age: EDELMAN, LAWRENCE E)</title>
+      <title>View details for report I537143F, person 46 (Age: EDELMAN, LAWRENCE E)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 47 &lt;br/&gt; Charges: MACKS CREEK, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537143F,_person_46_47</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 47&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/04/2026 1:29AM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; MILLER</description>
+      <guid isPermaLink="false">View_details_for_report_I537143F,_person_46_08/04/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537142F, person 45 (Age: ROBERTSON, DESTINY R)</title>
+      <title>View details for report I537142F, person 45 (Age: ROBERTSON, DESTINY R)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 33 &lt;br/&gt; Charges: COLUMBIA, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537142F,_person_45_33</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 33&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/04/2026 1:25AM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; MILLER</description>
+      <guid isPermaLink="false">View_details_for_report_I537142F,_person_45_08/04/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537131F, person 44 (Age: GIMELLO, SALLY J)</title>
+      <title>View details for report I537131F, person 44 (Age: GIMELLO, SALLY J)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 39 &lt;br/&gt; Charges: OSAGE BEACH, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537131F,_person_44_39</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 39&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 11:57PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; CAMDEN</description>
+      <guid isPermaLink="false">View_details_for_report_I537131F,_person_44_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537134F, person 43 (Age: FOSTER, CHARLESTON E)</title>
+      <title>View details for report I537134F, person 43 (Age: FOSTER, CHARLESTON E)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 24 &lt;br/&gt; Charges: HANNIBAL, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537134F,_person_43_24</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 24&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 11:30PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; CALLAWAY</description>
+      <guid isPermaLink="false">View_details_for_report_I537134F,_person_43_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537132F, person 42 (Age: VOGT, MICHAEL P)</title>
+      <title>View details for report I537132F, person 42 (Age: VOGT, MICHAEL P)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 67 &lt;br/&gt; Charges: ST JAMES CITY, FL</description>
-      <guid isPermaLink="false">View_details_for_report_I537132F,_person_42_67</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 67&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 11:02PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; CAMDEN</description>
+      <guid isPermaLink="false">View_details_for_report_I537132F,_person_42_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537126F, person 41 (Age: ADAMS, NANCY J)</title>
+      <title>View details for report I537126F, person 41 (Age: ADAMS, NANCY J)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 71 &lt;br/&gt; Charges: LAKE OZARK, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537126F,_person_41_71</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 71&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 9:56PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; CAMDEN</description>
+      <guid isPermaLink="false">View_details_for_report_I537126F,_person_41_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537128I, person 40 (Age: SCHMIDT, SARA J)</title>
+      <title>View details for report I537128I, person 40 (Age: SCHMIDT, SARA J)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 48 &lt;br/&gt; Charges: EDGAR SPRINGS</description>
-      <guid isPermaLink="false">View_details_for_report_I537128I,_person_40_48</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 48&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 9:49PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; DENT</description>
+      <guid isPermaLink="false">View_details_for_report_I537128I,_person_40_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537125F, person 39 (Age: RIOS, QUENEN A)</title>
+      <title>View details for report I537125F, person 39 (Age: RIOS, QUENEN A)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 30 &lt;br/&gt; Charges: ST. LOUIS, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537125F,_person_39_30</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 30&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 9:40PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; COOPER</description>
+      <guid isPermaLink="false">View_details_for_report_I537125F,_person_39_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537138D, person 38 (Age: CROSBY, BRADLEY A)</title>
+      <title>View details for report I537138D, person 38 (Age: CROSBY, BRADLEY A)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 51 &lt;br/&gt; Charges: CARTHAGE, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537138D,_person_38_51</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 51&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 9:08PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; JASPER</description>
+      <guid isPermaLink="false">View_details_for_report_I537138D,_person_38_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537120F, person 37 (Age: GAMPHOR, STEVEN L)</title>
+      <title>View details for report I537120F, person 37 (Age: GAMPHOR, STEVEN L)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 65 &lt;br/&gt; Charges: BARNETT, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537120F,_person_37_65</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 65&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 9:04PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; MILLER</description>
+      <guid isPermaLink="false">View_details_for_report_I537120F,_person_37_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537133F, person 36 (Age: STALLINS, BRIAN)</title>
+      <title>View details for report I537133F, person 36 (Age: STALLINS, BRIAN)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 53 &lt;br/&gt; Charges: DAWSON SPRINGS, KY</description>
-      <guid isPermaLink="false">View_details_for_report_I537133F,_person_36_53</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 53&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 9:04PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; CAMDEN</description>
+      <guid isPermaLink="false">View_details_for_report_I537133F,_person_36_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537122D, person 35 (Age: KEHRMAN, ANGELA M)</title>
+      <title>View details for report I537122D, person 35 (Age: KEHRMAN, ANGELA M)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 53 &lt;br/&gt; Charges: NEVADA, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537122D,_person_35_53</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 53&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 8:28PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; VERNON</description>
+      <guid isPermaLink="false">View_details_for_report_I537122D,_person_35_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537114C, person 34 (Age: BLACK, MELVIN A)</title>
+      <title>View details for report I537114C, person 34 (Age: BLACK, MELVIN A)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 29 &lt;br/&gt; Charges: WENTZVILLE, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537114C,_person_34_29</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 29&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 8:05PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; WARREN</description>
+      <guid isPermaLink="false">View_details_for_report_I537114C,_person_34_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537119C, person 33 (Age: CABY, JOHNIE R)</title>
+      <title>View details for report I537119C, person 33 (Age: CABY, JOHNIE R)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 45 &lt;br/&gt; Charges: GRAY SUMMIT, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537119C,_person_33_45</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 45&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 8:00PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; FRANKLIN</description>
+      <guid isPermaLink="false">View_details_for_report_I537119C,_person_33_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537118F, person 32 (Age: ATWELL, ADRIANNA L)</title>
+      <title>View details for report I537118F, person 32 (Age: ATWELL, ADRIANNA L)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 49 &lt;br/&gt; Charges: ELDON, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537118F,_person_32_49</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 49&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 7:47PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; MILLER</description>
+      <guid isPermaLink="false">View_details_for_report_I537118F,_person_32_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537117F, person 31 (Age: STILES, DARRELL S)</title>
+      <title>View details for report I537117F, person 31 (Age: STILES, DARRELL S)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 59 &lt;br/&gt; Charges: ELDON, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537117F,_person_31_59</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 59&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 7:34PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; MILLER</description>
+      <guid isPermaLink="false">View_details_for_report_I537117F,_person_31_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537115I, person 30 (Age: TROLINGER, FLOYD W)</title>
+      <title>View details for report I537115I, person 30 (Age: TROLINGER, FLOYD W)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 60 &lt;br/&gt; Charges: SALEM, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537115I,_person_30_60</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 60&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 7:20PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; DENT</description>
+      <guid isPermaLink="false">View_details_for_report_I537115I,_person_30_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537123H, person 29 (Age: COLE, RYAN A)</title>
+      <title>View details for report I537123H, person 29 (Age: COLE, RYAN A)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 19 &lt;br/&gt; Charges: MAYSVILLE, MISSOURI</description>
-      <guid isPermaLink="false">View_details_for_report_I537123H,_person_29_19</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 19&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 6:46PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; DEKALB</description>
+      <guid isPermaLink="false">View_details_for_report_I537123H,_person_29_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537110E, person 28 (Age: ASH, CASEY R)</title>
+      <title>View details for report I537110E, person 28 (Age: ASH, CASEY R)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 39 &lt;br/&gt; Charges: PORTAGEVILLE, MISSOURI</description>
-      <guid isPermaLink="false">View_details_for_report_I537110E,_person_28_39</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 39&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 5:53PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; NEW MADRID</description>
+      <guid isPermaLink="false">View_details_for_report_I537110E,_person_28_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537106F, person 27 (Age: WOOD, JOSEPH A)</title>
+      <title>View details for report I537106F, person 27 (Age: WOOD, JOSEPH A)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 27 &lt;br/&gt; Charges: IBERIA, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537106F,_person_27_27</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 27&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 5:12PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; MILLER</description>
+      <guid isPermaLink="false">View_details_for_report_I537106F,_person_27_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537108G, person 26 (Age: VIOLET, DAKOTA L)</title>
+      <title>View details for report I537108G, person 26 (Age: VIOLET, DAKOTA L)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 29 &lt;br/&gt; Charges: WEST PLAINS, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537108G,_person_26_29</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 29&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 5:03PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; HOWELL</description>
+      <guid isPermaLink="false">View_details_for_report_I537108G,_person_26_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537101A, person 25 (Age: TERRY, JONATHON A)</title>
+      <title>View details for report I537101A, person 25 (Age: TERRY, JONATHON A)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 39 &lt;br/&gt; Charges: SEDALIA, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537101A,_person_25_39</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 39&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 5:00PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; PETTIS</description>
+      <guid isPermaLink="false">View_details_for_report_I537101A,_person_25_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537097C, person 24 (Age: WALKER, HAROLD E)</title>
+      <title>View details for report I537097C, person 24 (Age: WALKER, HAROLD E)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 57 &lt;br/&gt; Charges: FLORISSANT / MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537097C,_person_24_57</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 57&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 4:42PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; ST. LOUIS</description>
+      <guid isPermaLink="false">View_details_for_report_I537097C,_person_24_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537102F, person 23 (Age: SPRIGGS, KRISTINA R)</title>
+      <title>View details for report I537102F, person 23 (Age: SPRIGGS, KRISTINA R)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 39 &lt;br/&gt; Charges: ELDON, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537102F,_person_23_39</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 39&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 4:10PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; MILLER</description>
+      <guid isPermaLink="false">View_details_for_report_I537102F,_person_23_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537098F, person 22 (Age: BURNS, TINA)</title>
+      <title>View details for report I537098F, person 22 (Age: BURNS, TINA)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 62 &lt;br/&gt; Charges: RICHLAND, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537098F,_person_22_62</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 62&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 3:51PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; MILLER</description>
+      <guid isPermaLink="false">View_details_for_report_I537098F,_person_22_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537096C, person 21 (Age: POELKER, CASSIE M)</title>
+      <title>View details for report I537096C, person 21 (Age: POELKER, CASSIE M)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 40 &lt;br/&gt; Charges: GERALD, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537096C,_person_21_40</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 40&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 3:47PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; FRANKLIN</description>
+      <guid isPermaLink="false">View_details_for_report_I537096C,_person_21_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537094C, person 20 (Age: CURRIE, CHRISTOPHER D)</title>
+      <title>View details for report I537094C, person 20 (Age: CURRIE, CHRISTOPHER D)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 33 &lt;br/&gt; Charges: HIGH RIDGE, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537094C,_person_20_33</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 33&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 3:34PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; JEFFERSON</description>
+      <guid isPermaLink="false">View_details_for_report_I537094C,_person_20_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537107H, person 19 (Age: EVANS, BRITTANY R)</title>
+      <title>View details for report I537107H, person 19 (Age: EVANS, BRITTANY R)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 35 &lt;br/&gt; Charges: GRANT CITY, MISSOURI</description>
-      <guid isPermaLink="false">View_details_for_report_I537107H,_person_19_35</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 35&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 3:04PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; WORTH</description>
+      <guid isPermaLink="false">View_details_for_report_I537107H,_person_19_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537112F, person 18 (Age: BERNAL-OLEA, JESUS)</title>
+      <title>View details for report I537112F, person 18 (Age: BERNAL-OLEA, JESUS)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 18 &lt;br/&gt; Charges: COLUMBIA, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537112F,_person_18_18</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 18&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 2:48PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; BOONE</description>
+      <guid isPermaLink="false">View_details_for_report_I537112F,_person_18_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537090C, person 17 (Age: KERBER, BENJAMIN C)</title>
+      <title>View details for report I537090C, person 17 (Age: KERBER, BENJAMIN C)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 43 &lt;br/&gt; Charges: HOUSE SPRINGS, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537090C,_person_17_43</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 43&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 2:30PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; WASHINGTON</description>
+      <guid isPermaLink="false">View_details_for_report_I537090C,_person_17_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537093G, person 16 (Age: PURCELL, JOSHUA J)</title>
+      <title>View details for report I537093G, person 16 (Age: PURCELL, JOSHUA J)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 45 &lt;br/&gt; Charges: ELLINGTON,MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537093G,_person_16_45</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 45&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 12:10PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; REYNOLDS</description>
+      <guid isPermaLink="false">View_details_for_report_I537093G,_person_16_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537105D, person 15 (Age: BARSNESS, BLAKE A)</title>
+      <title>View details for report I537105D, person 15 (Age: BARSNESS, BLAKE A)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 56 &lt;br/&gt; Charges: DUNNEGAN, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537105D,_person_15_56</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 56&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 12:01PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; POLK</description>
+      <guid isPermaLink="false">View_details_for_report_I537105D,_person_15_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537084G, person 14 (Age: FOLSOM, LEROY O)</title>
+      <title>View details for report I537084G, person 14 (Age: FOLSOM, LEROY O)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 40 &lt;br/&gt; Charges: WEST PLAINS, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537084G,_person_14_40</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 40&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 9:33AM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; HOWELL</description>
+      <guid isPermaLink="false">View_details_for_report_I537084G,_person_14_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537081C, person 13 (Age: HOWARD, DARNELL J)</title>
+      <title>View details for report I537081C, person 13 (Age: HOWARD, DARNELL J)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 38 &lt;br/&gt; Charges: BELLEVILLE, IL</description>
-      <guid isPermaLink="false">View_details_for_report_I537081C,_person_13_38</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 38&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 6:53AM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; ST. CHARLES</description>
+      <guid isPermaLink="false">View_details_for_report_I537081C,_person_13_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537073C, person 12 (Age: HONKOMP, ROBERT E)</title>
+      <title>View details for report I537073C, person 12 (Age: HONKOMP, ROBERT E)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 28 &lt;br/&gt; Charges: JENNINGS, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537073C,_person_12_28</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 28&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 2:03AM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; ST. CHARLES</description>
+      <guid isPermaLink="false">View_details_for_report_I537073C,_person_12_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537072A, person 11 (Age: WRIGHT, OMAR I)</title>
+      <title>View details for report I537072A, person 11 (Age: WRIGHT, OMAR I)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 28 &lt;br/&gt; Charges: KANSAS CITY, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537072A,_person_11_28</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 28&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 1:50AM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; CLAY</description>
+      <guid isPermaLink="false">View_details_for_report_I537072A,_person_11_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537076F, person 10 (Age: PISACANE, PEYTON J)</title>
+      <title>View details for report I537076F, person 10 (Age: PISACANE, PEYTON J)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 28 &lt;br/&gt; Charges: JACKSONVILLE BEACH, FL</description>
-      <guid isPermaLink="false">View_details_for_report_I537076F,_person_10_28</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 28&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 1:49AM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; CAMDEN</description>
+      <guid isPermaLink="false">View_details_for_report_I537076F,_person_10_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537078D, person 9 (Age: SILVA MATA, ULISES)</title>
+      <title>View details for report I537078D, person 9 (Age: SILVA MATA, ULISES)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 27 &lt;br/&gt; Charges: SPRINGFIELD, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537078D,_person_9_27</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 27&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 1:35AM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; GREENE</description>
+      <guid isPermaLink="false">View_details_for_report_I537078D,_person_9_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537071C, person 8 (Age: GORDON, JONATHAN K)</title>
+      <title>View details for report I537071C, person 8 (Age: GORDON, JONATHAN K)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 37 &lt;br/&gt; Charges: BLACK JACK, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537071C,_person_8_37</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 37&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 12:26AM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; ST. LOUIS</description>
+      <guid isPermaLink="false">View_details_for_report_I537071C,_person_8_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537066A, person 7 (Age: COLLINS, DERRICK D)</title>
+      <title>View details for report I537066A, person 7 (Age: COLLINS, DERRICK D)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 35 &lt;br/&gt; Charges: RAYTOWN, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537066A,_person_7_35</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 35&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/03/2026 12:08AM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; CLAY</description>
+      <guid isPermaLink="false">View_details_for_report_I537066A,_person_7_08/03/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537069C, person 6 (Age: MORENO SUAREZ, ALCIDES R)</title>
+      <title>View details for report I537069C, person 6 (Age: MORENO SUAREZ, ALCIDES R)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 31 &lt;br/&gt; Charges: ST. LOUIS, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537069C,_person_6_31</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 31&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/02/2026 11:52PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; ST. LOUIS</description>
+      <guid isPermaLink="false">View_details_for_report_I537069C,_person_6_08/02/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537077D, person 5 (Age: HAMPTON, JACOB P)</title>
+      <title>View details for report I537077D, person 5 (Age: HAMPTON, JACOB P)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 25 &lt;br/&gt; Charges: SPRINGFIELD, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537077D,_person_5_25</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 25&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/02/2026 11:37PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; GREENE</description>
+      <guid isPermaLink="false">View_details_for_report_I537077D,_person_5_08/02/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537065D, person 4 (Age: WILLIAMS, BRAYDEN L)</title>
+      <title>View details for report I537065D, person 4 (Age: WILLIAMS, BRAYDEN L)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 18 &lt;br/&gt; Charges: GALENA, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537065D,_person_4_18</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 18&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/02/2026 10:55PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; CHRISTIAN</description>
+      <guid isPermaLink="false">View_details_for_report_I537065D,_person_4_08/02/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537067D, person 3 (Age: SANDERS, ELIZABETH A)</title>
+      <title>View details for report I537067D, person 3 (Age: SANDERS, ELIZABETH A)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 53 &lt;br/&gt; Charges: BOLIVAR, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537067D,_person_3_53</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 53&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/02/2026 10:19PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; DALLAS</description>
+      <guid isPermaLink="false">View_details_for_report_I537067D,_person_3_08/02/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537058D, person 2 (Age: GOLDEN, MAGEN M)</title>
+      <title>View details for report I537058D, person 2 (Age: GOLDEN, MAGEN M)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 40 &lt;br/&gt; Charges: HUMANSVILLE, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537058D,_person_2_40</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 40&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/02/2026 9:59PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; POLK</description>
+      <guid isPermaLink="false">View_details_for_report_I537058D,_person_2_08/02/2026</guid>
     </item>
     <item>
-      <title>Arrest: View details for report I537060H, person 1 (Age: KINCADE, ROBERT D)</title>
+      <title>View details for report I537060H, person 1 (Age: KINCADE, ROBERT D)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date</link>
-      <description>Date: 59 &lt;br/&gt; Charges: GILMAN CITY, MO</description>
-      <guid isPermaLink="false">View_details_for_report_I537060H,_person_1_59</guid>
+      <description>&lt;strong&gt;Location:&lt;/strong&gt; 59&lt;br/&gt;&lt;strong&gt;Date/Time:&lt;/strong&gt; 08/02/2026 9:30PM&lt;br/&gt;&lt;strong&gt;Charges:&lt;/strong&gt; HARRISON</description>
+      <guid isPermaLink="false">View_details_for_report_I537060H,_person_1_08/02/2026</guid>
     </item>
   </channel>
 </rss>
