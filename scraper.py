@@ -57,7 +57,8 @@ if table:
                     if href.startswith('http'):
                         report_link = href
                     else:
-                        report_link = f"https://www.mshp.dps.missouri.gov/HP71/{href.lstrip('/')}".replace('/HP71/HP71/', '/HP71/')
+                        clean_path = href if href.startswith('/') else f"/{href}"
+                        report_link = f"https://www.mshp.dps.missouri.gov{clean_path}"
 
                 fe = fg.add_entry()
                 fe.id(f"{name.replace(' ', '_')}_{arrest_date}_{arrest_time}")
