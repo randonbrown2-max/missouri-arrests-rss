@@ -12,9 +12,21 @@ soup = BeautifulSoup(response.text, 'html.parser')
 
 fg = FeedGenerator()
 fg.id(url)
-fg.title('Missouri MSHP Arrest Reports - Texas County')
-fg.description('Automated RSS stream parsing the latest 5-day highway patrol arrest logs for Texas County, MO.')
+fg.title('Missouri MSHP Arrest Reports - Texas County Area')
+fg.description('Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.')
 fg.link(href=url, rel='alternate')
+
+# Texas County and bordering counties
+TARGET_COUNTIES = {
+    "TEXAS",
+    "DENT",
+    "SHANNON",
+    "HOWELL",
+    "DOUGLAS",
+    "WRIGHT",
+    "LACLEDE",
+    "PULASKI"
+}
 
 # Find the main data table
 table = soup.find('table')
@@ -28,8 +40,8 @@ if table:
         if len(cols) >= 8 and not cols[1].lower().startswith('name'):
             county = cols[6]
             
-            # Filter specifically for Texas County
-            if county.upper() == "TEXAS":
+            # Filter for Texas County and surrounding area
+            if county.upper() in TARGET_COUNTIES:
                 name = cols[1]
                 age = cols[2]
                 city_state = cols[3]
@@ -58,4 +70,4 @@ if table:
 
 # Save the RSS file
 fg.rss_file('missouri_arrests.xml', pretty=True)
-print("RSS Feed updated successfully for Texas County.")
+print("RSS Feed updated successfully for Texas County area.")
