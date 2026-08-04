@@ -2,7 +2,6 @@ import os
 import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
-from datetime import datetime
 
 # MSHP url sorted by date
 url = "https://www.mshp.dps.missouri.gov/HP71/SortFirstAction?column=date"
@@ -21,24 +20,30 @@ fg.link(href=url, rel='alternate')
 table = soup.find('table')
 if table:
     rows = table.find_all('tr')
-    # Loop rows skipping the header
-    for row in rows[1:]:
-            cols = [td.text.strip() for td in row.find_all('td')]
-            # MSHP arrest table has at least 7 relevant columns
-            if len(cols) >= 7:
-                name = cols[0]
-                age = cols[1]
-                city_state = cols[2]
-                arrest_date = cols[4]  # Column 4 is the actual Date
-                arrest_time = cols[5]  # Column 5 is the Time
-                charges = cols[6]      # Column 6 is Charges
-                
-                fe = fg.add_entry()
-                fe.id(f"{name.replace(' ', '_')}_{arrest_date}")
-                fe.title(f"{name} (Age: {age})")
-                fe.description(f"<strong>Location:</strong> {city_state}<br/><strong>Date/Time:</strong> {arrest_date} {arrest_time}<br/><strong>Charges:</strong> {charges}")
-                fe.link(href=url)
+    for row in rows:
+        cols = [td.text.strip() for td in row.find_all('td')]
+        
+        # Ensure row is a valid data row (at least 7 columns and not the header text)
+        if len(cols) >= 7 and cols[0] != 'Name' and cols[0] != 'Arrest':
+            name = cols[0]
+            age = cols[1]
+            city_state = cols[2]
+            arrest_date = cols[3]
+            arrest_time = cols[4]
+            county = cols[5]
+            troop = cols[6]
+            
+            fe = fg.add_entry()
+            # Unique entry ID
+            fe.id(f"{name.replace(' ', '_')}_{arrest_date}_{arrest_time}")
+            fe.title(f"{name} (Age: {age})")
+            fe.description(
+                f"<strong>City/State:</strong> {city_state}<br/>"
+                f"<strong>Date/Time:</strong> {arrest_date} {arrest_time}<br/>"
+                f"<strong>County/Troop:</strong> {county} County (Troop {troop})"
+            )
+            fe.link(href=url)
 
-# Save the RSS file to the root directory
+# Save the RSS file
 fg.rss_file('missouri_arrests.xml', pretty=True)
 print("RSS Feed updated successfully.")
