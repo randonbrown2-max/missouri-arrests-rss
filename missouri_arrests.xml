@@ -6,20 +6,20 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 08:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 12:46:54 +0000</lastBuildDate>
+    <item>
+      <title>WINEBRENNER, DONALD J (Age: 57)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537461I#r48</link>
+      <description>City/State: SAINT ROBERT, MO  •  Date/Time: 08/09/2026 at 3:13AM  •  County: PULASKI (Troop I)</description>
+      <guid isPermaLink="false">WINEBRENNER,_DONALD_J_08/09/2026_3:13AM</guid>
+      <category>PULASKI County</category>
+    </item>
     <item>
       <title>POTTER, JAMIE D (Age: 36)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537389I#r15</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537389I#r0</link>
       <description>City/State: ROLLA MO  •  Date/Time: 08/08/2026 at 1:59PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">POTTER,_JAMIE_D_08/08/2026_1:59PM</guid>
       <category>PHELPS County</category>
-    </item>
-    <item>
-      <title>COTNER, BRAYDEN C (Age: 20)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537373I#r3</link>
-      <description>City/State: SALEM, MO  •  Date/Time: 08/08/2026 at 2:43AM  •  County: LACLEDE (Troop I)</description>
-      <guid isPermaLink="false">COTNER,_BRAYDEN_C_08/08/2026_2:43AM</guid>
-      <category>LACLEDE County</category>
     </item>
   </channel>
 </rss>
