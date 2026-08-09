@@ -6,27 +6,20 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 01:38:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 05:03:35 +0000</lastBuildDate>
     <item>
       <title>POTTER, JAMIE D (Age: 36)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537389I#r44</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537389I#r30</link>
       <description>City/State: ROLLA MO  •  Date/Time: 08/08/2026 at 1:59PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">POTTER,_JAMIE_D_08/08/2026_1:59PM</guid>
       <category>PHELPS County</category>
     </item>
     <item>
       <title>COTNER, BRAYDEN C (Age: 20)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537373I#r32</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537373I#r18</link>
       <description>City/State: SALEM, MO  •  Date/Time: 08/08/2026 at 2:43AM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">COTNER,_BRAYDEN_C_08/08/2026_2:43AM</guid>
       <category>LACLEDE County</category>
-    </item>
-    <item>
-      <title>RIERA MENDOZA, MIGUEL ARCANGEL (Age: 32)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537365I#r13</link>
-      <description>City/State: AURORA, CO  •  Date/Time: 08/07/2026 at 9:20PM  •  County: PULASKI (Troop I)</description>
-      <guid isPermaLink="false">RIERA_MENDOZA,_MIGUEL_ARCANGEL_08/07/2026_9:20PM</guid>
-      <category>PULASKI County</category>
     </item>
   </channel>
 </rss>
