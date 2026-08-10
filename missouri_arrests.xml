@@ -6,10 +6,10 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 20:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 01:41:50 +0000</lastBuildDate>
     <item>
       <title>WINEBRENNER, DONALD J (Age: 57)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537461I#r43</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537461I#r38</link>
       <description>City/State: SAINT ROBERT, MO  •  Date/Time: 08/09/2026 at 3:13AM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">WINEBRENNER,_DONALD_J_08/09/2026_3:13AM</guid>
       <category>PULASKI County</category>
