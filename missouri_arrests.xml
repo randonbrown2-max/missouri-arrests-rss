@@ -6,54 +6,47 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 13:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 16:55:49 +0000</lastBuildDate>
     <item>
       <title>FOX, ATHENA M (Age: 36)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537594G#r45</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537594G#r39</link>
       <description>City/State: WINONA, MO  •  Date/Time: 08/11/2026 at 10:48PM  •  County: SHANNON (Troop G)</description>
       <guid isPermaLink="false">FOX,_ATHENA_M_08/11/2026_10:48PM</guid>
       <category>SHANNON County</category>
     </item>
     <item>
       <title>PETERSON, DONALD E (Age: 69)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537587G#r41</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537587G#r35</link>
       <description>City/State: WEST PLAINS, MO  •  Date/Time: 08/11/2026 at 8:58PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">PETERSON,_DONALD_E_08/11/2026_8:58PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>COUSINS, JOSHUA B (Age: 45)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537551G#r24</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537551G#r18</link>
       <description>City/State: AFTON, OK  •  Date/Time: 08/10/2026 at 10:18PM  •  County: SHANNON (Troop G)</description>
       <guid isPermaLink="false">COUSINS,_JOSHUA_B_08/10/2026_10:18PM</guid>
       <category>SHANNON County</category>
     </item>
     <item>
       <title>HALTERMAN, KAYLA A (Age: 42)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537552G#r23</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537552G#r17</link>
       <description>City/State: ELDRIDGE, MO  •  Date/Time: 08/10/2026 at 10:10PM  •  County: TEXAS (Troop G)</description>
       <guid isPermaLink="false">HALTERMAN,_KAYLA_A_08/10/2026_10:10PM</guid>
       <category>TEXAS County</category>
     </item>
     <item>
       <title>LAWSON, DANA (Age: 57)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537531I#r10</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537531I#r4</link>
       <description>City/State: IBERIA, MO  •  Date/Time: 08/10/2026 at 4:23PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">LAWSON,_DANA_08/10/2026_4:23PM</guid>
       <category>PHELPS County</category>
     </item>
     <item>
       <title>CREAMER, NEIL K (Age: 52)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537530I#r9</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537530I#r3</link>
       <description>City/State: CROCKER, MO  •  Date/Time: 08/10/2026 at 4:23PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">CREAMER,_NEIL_K_08/10/2026_4:23PM</guid>
-      <category>PHELPS County</category>
-    </item>
-    <item>
-      <title>WILSON, ADAM C (Age: 46)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537537I#r4</link>
-      <description>City/State: ROLLA,MO  •  Date/Time: 08/10/2026 at 1:40PM  •  County: PHELPS (Troop I)</description>
-      <guid isPermaLink="false">WILSON,_ADAM_C_08/10/2026_1:40PM</guid>
       <category>PHELPS County</category>
     </item>
   </channel>
