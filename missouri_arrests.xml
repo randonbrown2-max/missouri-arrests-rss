@@ -6,24 +6,24 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 01:08:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 04:29:37 +0000</lastBuildDate>
     <item>
       <title>MOFFITE, TERRANCE V (Age: 48)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537737G#r39</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537737G#r35</link>
       <description>City/State: THEODOSIA, MO  •  Date/Time: 08/14/2026 at 11:17AM  •  County: WRIGHT (Troop G)</description>
       <guid isPermaLink="false">MOFFITE,_TERRANCE_V_08/14/2026_11:17AM</guid>
       <category>WRIGHT County</category>
     </item>
     <item>
       <title>MARTZ, KOBY S (Age: 25)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537704G#r25</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537704G#r21</link>
       <description>City/State: WEST PLAINS, MO  •  Date/Time: 08/13/2026 at 9:07PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">MARTZ,_KOBY_S_08/13/2026_9:07PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>TOLLANDER, MICHAEL J (Age: 59)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537675G#r16</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537675G#r12</link>
       <description>City/State: COUNCIL BLUFFS, IA  •  Date/Time: 08/13/2026 at 1:30PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">TOLLANDER,_MICHAEL_J_08/13/2026_1:30PM</guid>
       <category>HOWELL County</category>
