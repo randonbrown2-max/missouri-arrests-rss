@@ -6,17 +6,17 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 01:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 04:40:12 +0000</lastBuildDate>
     <item>
       <title>HOLMES, SEMETRIUS B (Age: 26)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537871I#r38</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537871I#r34</link>
       <description>City/State: CHICAGO, ILLINOIS  •  Date/Time: 08/16/2026 at 7:26AM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">HOLMES,_SEMETRIUS_B_08/16/2026_7:26AM</guid>
       <category>LACLEDE County</category>
     </item>
     <item>
       <title>GRAY, PATRICIA A (Age: 58)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537845G#r19</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537845G#r15</link>
       <description>City/State: WEST PLAINS, MO  •  Date/Time: 08/16/2026 at 12:25AM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">GRAY,_PATRICIA_A_08/16/2026_12:25AM</guid>
       <category>HOWELL County</category>
