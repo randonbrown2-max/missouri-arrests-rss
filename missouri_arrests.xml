@@ -6,7 +6,7 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 12:40:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 16:24:53 +0000</lastBuildDate>
     <item>
       <title>COLLINS, SETH L (Age: 22)</title>
       <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537908G#r47</link>
