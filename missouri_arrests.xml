@@ -6,41 +6,34 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 20:24:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 01:08:20 +0000</lastBuildDate>
     <item>
       <title>COLLINS, SETH L (Age: 22)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537908G#r46</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537908G#r39</link>
       <description>City/State: WEST PLAINS, MO  •  Date/Time: 08/17/2026 at 12:15AM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">COLLINS,_SETH_L_08/17/2026_12:15AM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>BIRDSONG, KAIDEN D (Age: 18)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537911I#r45</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537911I#r38</link>
       <description>City/State: SALEM, MO  •  Date/Time: 08/16/2026 at 11:47PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">BIRDSONG,_KAIDEN_D_08/16/2026_11:47PM</guid>
       <category>PHELPS County</category>
     </item>
     <item>
       <title>FULTZ, KESHIA F (Age: 38)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537890I#r31</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537890I#r24</link>
       <description>City/State: ROLLA, MO  •  Date/Time: 08/16/2026 at 4:52PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">FULTZ,_KESHIA_F_08/16/2026_4:52PM</guid>
       <category>PHELPS County</category>
     </item>
     <item>
       <title>HOLMES, SEMETRIUS B (Age: 26)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537871I#r19</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537871I#r12</link>
       <description>City/State: CHICAGO, ILLINOIS  •  Date/Time: 08/16/2026 at 7:26AM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">HOLMES,_SEMETRIUS_B_08/16/2026_7:26AM</guid>
       <category>LACLEDE County</category>
-    </item>
-    <item>
-      <title>GRAY, PATRICIA A (Age: 58)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537845G#r0</link>
-      <description>City/State: WEST PLAINS, MO  •  Date/Time: 08/16/2026 at 12:25AM  •  County: HOWELL (Troop G)</description>
-      <guid isPermaLink="false">GRAY,_PATRICIA_A_08/16/2026_12:25AM</guid>
-      <category>HOWELL County</category>
     </item>
   </channel>
 </rss>
