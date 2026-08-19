@@ -6,52 +6,59 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 01:09:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:35:07 +0000</lastBuildDate>
+    <item>
+      <title>MITCHELL, FAITH J (Age: 56)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538006G#r48</link>
+      <description>City/State: THAYER, MO  •  Date/Time: 08/18/2026 at 8:48PM  •  County: HOWELL (Troop G)</description>
+      <guid isPermaLink="false">MITCHELL,_FAITH_J_08/18/2026_8:48PM</guid>
+      <category>HOWELL County</category>
+    </item>
     <item>
       <title>WARFEL, WILLIAM J (Age: 23)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537989G#r47</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537989G#r43</link>
       <description>City/State: ST LOUIS, MO  •  Date/Time: 08/18/2026 at 2:17PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">WARFEL,_WILLIAM_J_08/18/2026_2:17PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>LOCKE, ROBERT P (Age: 71)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537959G#r30</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537959G#r26</link>
       <description>City/State: WEST PLAINS, MO  •  Date/Time: 08/17/2026 at 11:28PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">LOCKE,_ROBERT_P_08/17/2026_11:28PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>DUMBACH, JOHN A (Age: 74)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537958I#r26</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537958I#r22</link>
       <description>City/State: VIENNA, MO  •  Date/Time: 08/17/2026 at 7:07PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">DUMBACH,_JOHN_A_08/17/2026_7:07PM</guid>
       <category>PHELPS County</category>
     </item>
     <item>
       <title>ALLEN, GLENNON P (Age: 56)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537949I#r22</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537949I#r18</link>
       <description>City/State: ST CHARLES, MO  •  Date/Time: 08/17/2026 at 5:52PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">ALLEN,_GLENNON_P_08/17/2026_5:52PM</guid>
       <category>PHELPS County</category>
     </item>
     <item>
       <title>WATTS, LOGAN P (Age: 18)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537960G#r21</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537960G#r17</link>
       <description>City/State: WEST PLAINS, MO  •  Date/Time: 08/17/2026 at 5:41PM  •  County: DOUGLAS (Troop G)</description>
       <guid isPermaLink="false">WATTS,_LOGAN_P_08/17/2026_5:41PM</guid>
       <category>DOUGLAS County</category>
     </item>
     <item>
       <title>COLLINS, SETH L (Age: 22)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537908G#r10</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537908G#r6</link>
       <description>City/State: WEST PLAINS, MO  •  Date/Time: 08/17/2026 at 12:15AM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">COLLINS,_SETH_L_08/17/2026_12:15AM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>BIRDSONG, KAIDEN D (Age: 18)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537911I#r9</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537911I#r5</link>
       <description>City/State: SALEM, MO  •  Date/Time: 08/16/2026 at 11:47PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">BIRDSONG,_KAIDEN_D_08/16/2026_11:47PM</guid>
       <category>PHELPS County</category>
