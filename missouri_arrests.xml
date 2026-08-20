@@ -6,62 +6,48 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 20:25:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:08:39 +0000</lastBuildDate>
     <item>
       <title>POLLOCK, BRIAN E (Age: 47)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538013G#r36</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538013G#r33</link>
       <description>City/State: MANSFIELD, MO  •  Date/Time: 08/18/2026 at 10:47PM  •  County: WRIGHT (Troop G)</description>
       <guid isPermaLink="false">POLLOCK,_BRIAN_E_08/18/2026_10:47PM</guid>
       <category>WRIGHT County</category>
     </item>
     <item>
       <title>ROBINSON, DONTE J (Age: 32)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538008I#r34</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538008I#r31</link>
       <description>City/State: SAINT ROBERT, MO  •  Date/Time: 08/18/2026 at 9:00PM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">ROBINSON,_DONTE_J_08/18/2026_9:00PM</guid>
       <category>PULASKI County</category>
     </item>
     <item>
       <title>MITCHELL, FAITH J (Age: 56)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538006G#r33</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538006G#r30</link>
       <description>City/State: THAYER, MO  •  Date/Time: 08/18/2026 at 8:48PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">MITCHELL,_FAITH_J_08/18/2026_8:48PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>WARFEL, WILLIAM J (Age: 23)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537989G#r27</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537989G#r24</link>
       <description>City/State: ST LOUIS, MO  •  Date/Time: 08/18/2026 at 2:17PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">WARFEL,_WILLIAM_J_08/18/2026_2:17PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>LOCKE, ROBERT P (Age: 71)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537959G#r10</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537959G#r7</link>
       <description>City/State: WEST PLAINS, MO  •  Date/Time: 08/17/2026 at 11:28PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">LOCKE,_ROBERT_P_08/17/2026_11:28PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>DUMBACH, JOHN A (Age: 74)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537958I#r6</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537958I#r3</link>
       <description>City/State: VIENNA, MO  •  Date/Time: 08/17/2026 at 7:07PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">DUMBACH,_JOHN_A_08/17/2026_7:07PM</guid>
       <category>PHELPS County</category>
-    </item>
-    <item>
-      <title>ALLEN, GLENNON P (Age: 56)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537949I#r2</link>
-      <description>City/State: ST CHARLES, MO  •  Date/Time: 08/17/2026 at 5:52PM  •  County: PHELPS (Troop I)</description>
-      <guid isPermaLink="false">ALLEN,_GLENNON_P_08/17/2026_5:52PM</guid>
-      <category>PHELPS County</category>
-    </item>
-    <item>
-      <title>WATTS, LOGAN P (Age: 18)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537960G#r1</link>
-      <description>City/State: WEST PLAINS, MO  •  Date/Time: 08/17/2026 at 5:41PM  •  County: DOUGLAS (Troop G)</description>
-      <guid isPermaLink="false">WATTS,_LOGAN_P_08/17/2026_5:41PM</guid>
-      <category>DOUGLAS County</category>
     </item>
   </channel>
 </rss>
