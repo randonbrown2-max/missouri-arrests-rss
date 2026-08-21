@@ -6,41 +6,20 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 01:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 04:36:15 +0000</lastBuildDate>
     <item>
       <title>MOORE, REX A (Age: 35)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538068G#r34</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538068G#r26</link>
       <description>City/State: VANDERBILT, TX  •  Date/Time: 08/19/2026 at 10:28PM  •  County: TEXAS (Troop G)</description>
       <guid isPermaLink="false">MOORE,_REX_A_08/19/2026_10:28PM</guid>
       <category>TEXAS County</category>
     </item>
     <item>
       <title>POLLOCK, BRIAN E (Age: 47)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538013G#r9</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538013G#r1</link>
       <description>City/State: MANSFIELD, MO  •  Date/Time: 08/18/2026 at 10:47PM  •  County: WRIGHT (Troop G)</description>
       <guid isPermaLink="false">POLLOCK,_BRIAN_E_08/18/2026_10:47PM</guid>
       <category>WRIGHT County</category>
-    </item>
-    <item>
-      <title>ROBINSON, DONTE J (Age: 32)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538008I#r7</link>
-      <description>City/State: SAINT ROBERT, MO  •  Date/Time: 08/18/2026 at 9:00PM  •  County: PULASKI (Troop I)</description>
-      <guid isPermaLink="false">ROBINSON,_DONTE_J_08/18/2026_9:00PM</guid>
-      <category>PULASKI County</category>
-    </item>
-    <item>
-      <title>MITCHELL, FAITH J (Age: 56)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538006G#r6</link>
-      <description>City/State: THAYER, MO  •  Date/Time: 08/18/2026 at 8:48PM  •  County: HOWELL (Troop G)</description>
-      <guid isPermaLink="false">MITCHELL,_FAITH_J_08/18/2026_8:48PM</guid>
-      <category>HOWELL County</category>
-    </item>
-    <item>
-      <title>WARFEL, WILLIAM J (Age: 23)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I537989G#r0</link>
-      <description>City/State: ST LOUIS, MO  •  Date/Time: 08/18/2026 at 2:17PM  •  County: HOWELL (Troop G)</description>
-      <guid isPermaLink="false">WARFEL,_WILLIAM_J_08/18/2026_2:17PM</guid>
-      <category>HOWELL County</category>
     </item>
   </channel>
 </rss>
