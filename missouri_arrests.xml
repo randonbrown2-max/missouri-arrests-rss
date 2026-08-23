@@ -6,38 +6,52 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 01:14:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 04:34:49 +0000</lastBuildDate>
+    <item>
+      <title>ROBINSON, KENNY D (Age: 20)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538249I#r47</link>
+      <description>City/State: SALEM, MO  •  Date/Time: 08/22/2026 at 9:56PM  •  County: DENT (Troop I)</description>
+      <guid isPermaLink="false">ROBINSON,_KENNY_D_08/22/2026_9:56PM</guid>
+      <category>DENT County</category>
+    </item>
+    <item>
+      <title>SHOULTS, SIERRA N (Age: 23)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538245G#r44</link>
+      <description>City/State: HARTSHORN,MO  •  Date/Time: 08/22/2026 at 7:59PM  •  County: TEXAS (Troop G)</description>
+      <guid isPermaLink="false">SHOULTS,_SIERRA_N_08/22/2026_7:59PM</guid>
+      <category>TEXAS County</category>
+    </item>
     <item>
       <title>TIMMONS, DAVID A (Age: 37)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538235I#r46</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538235I#r39</link>
       <description>City/State: CAMDENTON, MO  •  Date/Time: 08/22/2026 at 3:36PM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">TIMMONS,_DAVID_A_08/22/2026_3:36PM</guid>
       <category>PULASKI County</category>
     </item>
     <item>
       <title>EZELL, GRACIE D (Age: 23)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538234I#r45</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538234I#r37</link>
       <description>City/State: SAINT ROBERT, MO  •  Date/Time: 08/22/2026 at 3:09PM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">EZELL,_GRACIE_D_08/22/2026_3:09PM</guid>
       <category>PULASKI County</category>
     </item>
     <item>
       <title>OVERBY, DARONDA M (Age: 33)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538194G#r29</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538194G#r20</link>
       <description>City/State: YUKON, MO  •  Date/Time: 08/21/2026 at 11:47PM  •  County: TEXAS (Troop G)</description>
       <guid isPermaLink="false">OVERBY,_DARONDA_M_08/21/2026_11:47PM</guid>
       <category>TEXAS County</category>
     </item>
     <item>
       <title>RADFORD, THOMAS J (Age: 44)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538170G#r12</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538170G#r3</link>
       <description>City/State: WILLOW SPRINGS, MO  •  Date/Time: 08/21/2026 at 6:02PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">RADFORD,_THOMAS_J_08/21/2026_6:02PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>BAUER, JASON C (Age: 49)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538168I#r10</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538168I#r1</link>
       <description>City/State: CROCKER  •  Date/Time: 08/21/2026 at 5:04PM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">BAUER,_JASON_C_08/21/2026_5:04PM</guid>
       <category>LACLEDE County</category>
