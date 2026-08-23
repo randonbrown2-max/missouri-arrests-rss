@@ -6,31 +6,38 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 08:27:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:36:30 +0000</lastBuildDate>
+    <item>
+      <title>MCKINNON, AMBER D (Age: 42)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538288I#r44</link>
+      <description>City/State: IBERIA, MO  •  Date/Time: 08/23/2026 at 1:55AM  •  County: PULASKI (Troop I)</description>
+      <guid isPermaLink="false">MCKINNON,_AMBER_D_08/23/2026_1:55AM</guid>
+      <category>PULASKI County</category>
+    </item>
     <item>
       <title>ROBINSON, KENNY D (Age: 20)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538249I#r30</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538249I#r23</link>
       <description>City/State: SALEM, MO  •  Date/Time: 08/22/2026 at 9:56PM  •  County: DENT (Troop I)</description>
       <guid isPermaLink="false">ROBINSON,_KENNY_D_08/22/2026_9:56PM</guid>
       <category>DENT County</category>
     </item>
     <item>
       <title>SHOULTS, SIERRA N (Age: 23)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538245G#r26</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538245G#r19</link>
       <description>City/State: HARTSHORN,MO  •  Date/Time: 08/22/2026 at 7:59PM  •  County: TEXAS (Troop G)</description>
       <guid isPermaLink="false">SHOULTS,_SIERRA_N_08/22/2026_7:59PM</guid>
       <category>TEXAS County</category>
     </item>
     <item>
       <title>TIMMONS, DAVID A (Age: 37)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538235I#r18</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538235I#r10</link>
       <description>City/State: CAMDENTON, MO  •  Date/Time: 08/22/2026 at 3:36PM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">TIMMONS,_DAVID_A_08/22/2026_3:36PM</guid>
       <category>PULASKI County</category>
     </item>
     <item>
       <title>EZELL, GRACIE D (Age: 23)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538234I#r16</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538234I#r8</link>
       <description>City/State: SAINT ROBERT, MO  •  Date/Time: 08/22/2026 at 3:09PM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">EZELL,_GRACIE_D_08/22/2026_3:09PM</guid>
       <category>PULASKI County</category>
