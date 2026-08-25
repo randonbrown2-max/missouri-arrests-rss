@@ -6,31 +6,38 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 20:28:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:10:33 +0000</lastBuildDate>
+    <item>
+      <title>BAKER, DENNIS W (Age: 39)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538360G#r46</link>
+      <description>City/State: MOUNTAIN VIEW, MO  •  Date/Time: 08/24/2026 at 1:42PM  •  County: HOWELL (Troop G)</description>
+      <guid isPermaLink="false">BAKER,_DENNIS_W_08/24/2026_1:42PM</guid>
+      <category>HOWELL County</category>
+    </item>
     <item>
       <title>LAREZ, RYANN D (Age: 41)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538327I#r34</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538327I#r29</link>
       <description>City/State: LUCERNE VALLEY, CA  •  Date/Time: 08/23/2026 at 11:31PM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">LAREZ,_RYANN_D_08/23/2026_11:31PM</guid>
       <category>PULASKI County</category>
     </item>
     <item>
       <title>COLE, DANIEL E (Age: 38)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538306I#r21</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538306I#r16</link>
       <description>City/State: LAKEMAN OH  •  Date/Time: 08/23/2026 at 3:45PM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">COLE,_DANIEL_E_08/23/2026_3:45PM</guid>
       <category>LACLEDE County</category>
     </item>
     <item>
       <title>PERRY, MICHAEL L (Age: 50)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538300G#r16</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538300G#r11</link>
       <description>City/State: NAYLOR, MO  •  Date/Time: 08/23/2026 at 10:57AM  •  County: WRIGHT (Troop G)</description>
       <guid isPermaLink="false">PERRY,_MICHAEL_L_08/23/2026_10:57AM</guid>
       <category>WRIGHT County</category>
     </item>
     <item>
       <title>MCKINNON, AMBER D (Age: 42)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538288I#r5</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538288I#r0</link>
       <description>City/State: IBERIA, MO  •  Date/Time: 08/23/2026 at 1:55AM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">MCKINNON,_AMBER_D_08/23/2026_1:55AM</guid>
       <category>PULASKI County</category>
