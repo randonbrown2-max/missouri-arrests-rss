@@ -6,41 +6,27 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 18:51:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 04:02:33 +0000</lastBuildDate>
     <item>
       <title>ELMER, JOHNNY D (Age: 51)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538466G#r41</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538466G#r27</link>
       <description>City/State: LICKING,MO  •  Date/Time: 08/26/2026 at 9:03PM  •  County: TEXAS (Troop G)</description>
       <guid isPermaLink="false">ELMER,_JOHNNY_D_08/26/2026_9:03PM</guid>
       <category>TEXAS County</category>
     </item>
     <item>
       <title>DEMIERE, KYLE R (Age: 40)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538464I#r39</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538464I#r25</link>
       <description>City/State: ROLLA, MO  •  Date/Time: 08/26/2026 at 6:21PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">DEMIERE,_KYLE_R_08/26/2026_6:21PM</guid>
       <category>PHELPS County</category>
     </item>
     <item>
       <title>MARTINEZ-BEDOLLA, JESUS S (Age: 61)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538418I#r17</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538418I#r3</link>
       <description>City/State: APPLETON, WI  •  Date/Time: 08/25/2026 at 10:06PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">MARTINEZ-BEDOLLA,_JESUS_S_08/25/2026_10:06PM</guid>
       <category>PHELPS County</category>
-    </item>
-    <item>
-      <title>DE LEON- PEREZ, ALEXANDER (Age: 35)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538406G#r12</link>
-      <description>City/State: CHIAPAS, MX  •  Date/Time: 08/25/2026 at 6:18PM  •  County: WRIGHT (Troop G)</description>
-      <guid isPermaLink="false">DE_LEON-_PEREZ,_ALEXANDER_08/25/2026_6:18PM</guid>
-      <category>WRIGHT County</category>
-    </item>
-    <item>
-      <title>SMITH, MARSHALL A (Age: 58)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538404I#r8</link>
-      <description>City/State: DIXON, MO  •  Date/Time: 08/25/2026 at 4:11PM  •  County: PULASKI (Troop I)</description>
-      <guid isPermaLink="false">SMITH,_MARSHALL_A_08/25/2026_4:11PM</guid>
-      <category>PULASKI County</category>
     </item>
   </channel>
 </rss>
