@@ -6,27 +6,20 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 04:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 19:54:02 +0000</lastBuildDate>
+    <item>
+      <title>PHILLIPS, BRUCE A (Age: 69)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538518I#r32</link>
+      <description>City/State: LEBANON MO  •  Date/Time: 08/27/2026 at 11:06PM  •  County: LACLEDE (Troop I)</description>
+      <guid isPermaLink="false">PHILLIPS,_BRUCE_A_08/27/2026_11:06PM</guid>
+      <category>LACLEDE County</category>
+    </item>
     <item>
       <title>ELMER, JOHNNY D (Age: 51)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538466G#r27</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538466G#r1</link>
       <description>City/State: LICKING,MO  •  Date/Time: 08/26/2026 at 9:03PM  •  County: TEXAS (Troop G)</description>
       <guid isPermaLink="false">ELMER,_JOHNNY_D_08/26/2026_9:03PM</guid>
       <category>TEXAS County</category>
-    </item>
-    <item>
-      <title>DEMIERE, KYLE R (Age: 40)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538464I#r25</link>
-      <description>City/State: ROLLA, MO  •  Date/Time: 08/26/2026 at 6:21PM  •  County: PHELPS (Troop I)</description>
-      <guid isPermaLink="false">DEMIERE,_KYLE_R_08/26/2026_6:21PM</guid>
-      <category>PHELPS County</category>
-    </item>
-    <item>
-      <title>MARTINEZ-BEDOLLA, JESUS S (Age: 61)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538418I#r3</link>
-      <description>City/State: APPLETON, WI  •  Date/Time: 08/25/2026 at 10:06PM  •  County: PHELPS (Troop I)</description>
-      <guid isPermaLink="false">MARTINEZ-BEDOLLA,_JESUS_S_08/25/2026_10:06PM</guid>
-      <category>PHELPS County</category>
     </item>
   </channel>
 </rss>
