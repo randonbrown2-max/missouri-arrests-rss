@@ -6,20 +6,13 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 19:54:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 02:43:03 +0000</lastBuildDate>
     <item>
       <title>PHILLIPS, BRUCE A (Age: 69)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538518I#r32</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538518I#r25</link>
       <description>City/State: LEBANON MO  •  Date/Time: 08/27/2026 at 11:06PM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">PHILLIPS,_BRUCE_A_08/27/2026_11:06PM</guid>
       <category>LACLEDE County</category>
-    </item>
-    <item>
-      <title>ELMER, JOHNNY D (Age: 51)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538466G#r1</link>
-      <description>City/State: LICKING,MO  •  Date/Time: 08/26/2026 at 9:03PM  •  County: TEXAS (Troop G)</description>
-      <guid isPermaLink="false">ELMER,_JOHNNY_D_08/26/2026_9:03PM</guid>
-      <category>TEXAS County</category>
     </item>
   </channel>
 </rss>
