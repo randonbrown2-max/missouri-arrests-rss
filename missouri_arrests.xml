@@ -6,10 +6,10 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 10:49:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:14:38 +0000</lastBuildDate>
     <item>
       <title>ARGUETA, IRVIN A (Age: 38)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538604I#r47</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538604I#r46</link>
       <description>City/State: WAYNESVILLE, MO  •  Date/Time: 08/29/2026 at 2:22AM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">ARGUETA,_IRVIN_A_08/29/2026_2:22AM</guid>
       <category>PULASKI County</category>
