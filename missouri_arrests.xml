@@ -6,17 +6,17 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 22:22:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 03:47:02 +0000</lastBuildDate>
     <item>
       <title>SOARD, JUSTIN L (Age: 35)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538630G#r48</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538630G#r39</link>
       <description>City/State: POMONA,MO  •  Date/Time: 08/29/2026 at 3:21PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">SOARD,_JUSTIN_L_08/29/2026_3:21PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>ARGUETA, IRVIN A (Age: 38)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538604I#r39</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538604I#r27</link>
       <description>City/State: WAYNESVILLE, MO  •  Date/Time: 08/29/2026 at 2:22AM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">ARGUETA,_IRVIN_A_08/29/2026_2:22AM</guid>
       <category>PULASKI County</category>
