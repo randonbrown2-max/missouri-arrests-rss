@@ -6,17 +6,17 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 18:48:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 23:37:40 +0000</lastBuildDate>
     <item>
       <title>RIDEOUT, MASON D (Age: 37)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538763G#r34</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538763G#r28</link>
       <description>City/State: WEST PLAINS,MO  •  Date/Time: 08/30/2026 at 7:51PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">RIDEOUT,_MASON_D_08/30/2026_7:51PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>BALFANTZ, WILLIAM C (Age: 60)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538731G#r21</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I538731G#r15</link>
       <description>City/State: THAYER, MO  •  Date/Time: 08/30/2026 at 7:31AM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">BALFANTZ,_WILLIAM_C_08/30/2026_7:31AM</guid>
       <category>HOWELL County</category>
