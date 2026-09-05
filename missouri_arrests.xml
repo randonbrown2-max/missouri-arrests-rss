@@ -6,24 +6,24 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Sep 2026 14:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 17:55:07 +0000</lastBuildDate>
     <item>
       <title>PURCHASE, SHANIA A (Age: 30)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539122I#r29</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539122I#r28</link>
       <description>City/State: ST ROBERT MO  •  Date/Time: 09/05/2026 at 1:50AM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">PURCHASE,_SHANIA_A_09/05/2026_1:50AM</guid>
       <category>PULASKI County</category>
     </item>
     <item>
       <title>OGLE, AARON J (Age: 22)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539114I#r21</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539114I#r20</link>
       <description>City/State: RICHLAND MO  •  Date/Time: 09/05/2026 at 1:01AM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">OGLE,_AARON_J_09/05/2026_1:01AM</guid>
       <category>PULASKI County</category>
     </item>
     <item>
       <title>DUNZ, JARED B (Age: 36)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539121I#r17</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539121I#r16</link>
       <description>City/State: LAQUEY, MO  •  Date/Time: 09/05/2026 at 12:33AM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">DUNZ,_JARED_B_09/05/2026_12:33AM</guid>
       <category>PULASKI County</category>
