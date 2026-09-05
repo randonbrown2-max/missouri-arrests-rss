@@ -6,27 +6,27 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Sep 2026 08:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:37:58 +0000</lastBuildDate>
     <item>
-      <title>PATTY, ZACKERY M (Age: 20)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539100I#r34</link>
-      <description>City/State: MARSHFIELD, MO  •  Date/Time: 09/04/2026 at 10:27PM  •  County: PULASKI (Troop I)</description>
-      <guid isPermaLink="false">PATTY,_ZACKERY_M_09/04/2026_10:27PM</guid>
+      <title>PURCHASE, SHANIA A (Age: 30)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539122I#r29</link>
+      <description>City/State: ST ROBERT MO  •  Date/Time: 09/05/2026 at 1:50AM  •  County: PULASKI (Troop I)</description>
+      <guid isPermaLink="false">PURCHASE,_SHANIA_A_09/05/2026_1:50AM</guid>
       <category>PULASKI County</category>
     </item>
     <item>
-      <title>CLARK, MARK A (Age: 38)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539082I#r25</link>
-      <description>City/State: NEWBURG, MO  •  Date/Time: 09/04/2026 at 8:39PM  •  County: PHELPS (Troop I)</description>
-      <guid isPermaLink="false">CLARK,_MARK_A_09/04/2026_8:39PM</guid>
-      <category>PHELPS County</category>
+      <title>OGLE, AARON J (Age: 22)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539114I#r21</link>
+      <description>City/State: RICHLAND MO  •  Date/Time: 09/05/2026 at 1:01AM  •  County: PULASKI (Troop I)</description>
+      <guid isPermaLink="false">OGLE,_AARON_J_09/05/2026_1:01AM</guid>
+      <category>PULASKI County</category>
     </item>
     <item>
-      <title>MCGUIRE, STEVEN R (Age: 52)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539054I#r13</link>
-      <description>City/State: STRAFFORD  MO  •  Date/Time: 09/04/2026 at 4:39PM  •  County: LACLEDE (Troop I)</description>
-      <guid isPermaLink="false">MCGUIRE,_STEVEN_R_09/04/2026_4:39PM</guid>
-      <category>LACLEDE County</category>
+      <title>DUNZ, JARED B (Age: 36)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539121I#r17</link>
+      <description>City/State: LAQUEY, MO  •  Date/Time: 09/05/2026 at 12:33AM  •  County: PULASKI (Troop I)</description>
+      <guid isPermaLink="false">DUNZ,_JARED_B_09/05/2026_12:33AM</guid>
+      <category>PULASKI County</category>
     </item>
   </channel>
 </rss>
