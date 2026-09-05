@@ -6,10 +6,17 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 22:08:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 03:03:33 +0000</lastBuildDate>
+    <item>
+      <title>MCGUIRE, STEVEN R (Age: 52)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539054I#r42</link>
+      <description>City/State: STRAFFORD  MO  •  Date/Time: 09/04/2026 at 4:39PM  •  County: LACLEDE (Troop I)</description>
+      <guid isPermaLink="false">MCGUIRE,_STEVEN_R_09/04/2026_4:39PM</guid>
+      <category>LACLEDE County</category>
+    </item>
     <item>
       <title>GANN, LUCAS L (Age: 43)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539000I#r19</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539000I#r6</link>
       <description>City/State: DIXON, MO  •  Date/Time: 09/03/2026 at 8:03PM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">GANN,_LUCAS_L_09/03/2026_8:03PM</guid>
       <category>PULASKI County</category>
