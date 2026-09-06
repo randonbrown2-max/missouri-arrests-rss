@@ -6,27 +6,20 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Sep 2026 03:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:22:36 +0000</lastBuildDate>
+    <item>
+      <title>PLOTT, JENNIFER L (Age: 45)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539210G#r46</link>
+      <description>City/State: PEACE VALLEY, MO  •  Date/Time: 09/06/2026 at 1:03AM  •  County: TEXAS (Troop G)</description>
+      <guid isPermaLink="false">PLOTT,_JENNIFER_L_09/06/2026_1:03AM</guid>
+      <category>TEXAS County</category>
+    </item>
     <item>
       <title>MAJOROS, ANDREA R (Age: 63)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539155I#r35</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539155I#r3</link>
       <description>City/State: ST. LOUIS, MO  •  Date/Time: 09/05/2026 at 11:08AM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">MAJOROS,_ANDREA_R_09/05/2026_11:08AM</guid>
       <category>LACLEDE County</category>
-    </item>
-    <item>
-      <title>PURCHASE, SHANIA A (Age: 30)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539122I#r12</link>
-      <description>City/State: ST ROBERT MO  •  Date/Time: 09/05/2026 at 1:50AM  •  County: PULASKI (Troop I)</description>
-      <guid isPermaLink="false">PURCHASE,_SHANIA_A_09/05/2026_1:50AM</guid>
-      <category>PULASKI County</category>
-    </item>
-    <item>
-      <title>OGLE, AARON J (Age: 22)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539114I#r4</link>
-      <description>City/State: RICHLAND MO  •  Date/Time: 09/05/2026 at 1:01AM  •  County: PULASKI (Troop I)</description>
-      <guid isPermaLink="false">OGLE,_AARON_J_09/05/2026_1:01AM</guid>
-      <category>PULASKI County</category>
     </item>
   </channel>
 </rss>
