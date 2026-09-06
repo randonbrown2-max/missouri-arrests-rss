@@ -6,17 +6,17 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Sep 2026 14:57:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:01:50 +0000</lastBuildDate>
     <item>
       <title>ROTH, TUCKER C (Age: 26)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539217G#r40</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539217G#r38</link>
       <description>City/State: MOUNTAIN GROVE, MO  •  Date/Time: 09/06/2026 at 2:10AM  •  County: WRIGHT (Troop G)</description>
       <guid isPermaLink="false">ROTH,_TUCKER_C_09/06/2026_2:10AM</guid>
       <category>WRIGHT County</category>
     </item>
     <item>
       <title>PLOTT, JENNIFER L (Age: 45)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539210G#r30</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539210G#r28</link>
       <description>City/State: PEACE VALLEY, MO  •  Date/Time: 09/06/2026 at 1:03AM  •  County: TEXAS (Troop G)</description>
       <guid isPermaLink="false">PLOTT,_JENNIFER_L_09/06/2026_1:03AM</guid>
       <category>TEXAS County</category>
