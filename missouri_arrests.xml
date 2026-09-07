@@ -6,38 +6,59 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 03:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:56:24 +0000</lastBuildDate>
+    <item>
+      <title>FERGOT, PAUL N (Age: 41)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539278I#r46</link>
+      <description>City/State: DIXON, MO  •  Date/Time: 09/06/2026 at 10:12PM  •  County: PULASKI (Troop I)</description>
+      <guid isPermaLink="false">FERGOT,_PAUL_N_09/06/2026_10:12PM</guid>
+      <category>PULASKI County</category>
+    </item>
+    <item>
+      <title>DODSON, JENNIE L (Age: 40)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539277I#r42</link>
+      <description>City/State: JEROME, MO  •  Date/Time: 09/06/2026 at 8:03PM  •  County: PULASKI (Troop I)</description>
+      <guid isPermaLink="false">DODSON,_JENNIE_L_09/06/2026_8:03PM</guid>
+      <category>PULASKI County</category>
+    </item>
     <item>
       <title>ALLEN, HENRY W (Age: 34)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539262G#r48</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539262G#r39</link>
       <description>City/State: ELLINGTON, MO  •  Date/Time: 09/06/2026 at 6:20PM  •  County: SHANNON (Troop G)</description>
       <guid isPermaLink="false">ALLEN,_HENRY_W_09/06/2026_6:20PM</guid>
       <category>SHANNON County</category>
     </item>
     <item>
+      <title>MATHIS, ADAM L (Age: 57)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539267I#r38</link>
+      <description>City/State: SALEM MO  •  Date/Time: 09/06/2026 at 6:02PM  •  County: DENT (Troop I)</description>
+      <guid isPermaLink="false">MATHIS,_ADAM_L_09/06/2026_6:02PM</guid>
+      <category>DENT County</category>
+    </item>
+    <item>
       <title>HILL, JOHN W (Age: 47)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539252I#r45</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539252I#r35</link>
       <description>City/State: LEBANON, MO  •  Date/Time: 09/06/2026 at 3:11PM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">HILL,_JOHN_W_09/06/2026_3:11PM</guid>
       <category>LACLEDE County</category>
     </item>
     <item>
       <title>ESTES, JAY E (Age: 63)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539244I#r39</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539244I#r29</link>
       <description>City/State: GRAVOIS MILLS, MO  •  Date/Time: 09/06/2026 at 11:17AM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">ESTES,_JAY_E_09/06/2026_11:17AM</guid>
       <category>LACLEDE County</category>
     </item>
     <item>
       <title>ROTH, TUCKER C (Age: 26)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539217G#r27</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539217G#r17</link>
       <description>City/State: MOUNTAIN GROVE, MO  •  Date/Time: 09/06/2026 at 2:10AM  •  County: WRIGHT (Troop G)</description>
       <guid isPermaLink="false">ROTH,_TUCKER_C_09/06/2026_2:10AM</guid>
       <category>WRIGHT County</category>
     </item>
     <item>
       <title>PLOTT, JENNIFER L (Age: 45)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539210G#r17</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539210G#r7</link>
       <description>City/State: PEACE VALLEY, MO  •  Date/Time: 09/06/2026 at 1:03AM  •  County: TEXAS (Troop G)</description>
       <guid isPermaLink="false">PLOTT,_JENNIFER_L_09/06/2026_1:03AM</guid>
       <category>TEXAS County</category>
