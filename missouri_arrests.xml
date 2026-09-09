@@ -6,17 +6,17 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 22:22:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 03:12:55 +0000</lastBuildDate>
     <item>
       <title>BLAIR, ASHLEY N (Age: 40)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539352I#r29</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539352I#r26</link>
       <description>City/State: CABOOL, MO  •  Date/Time: 09/07/2026 at 8:20PM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">BLAIR,_ASHLEY_N_09/07/2026_8:20PM</guid>
       <category>LACLEDE County</category>
     </item>
     <item>
       <title>HERNANDEZ, CHRISTIAN I (Age: 24)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539302G#r7</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539302G#r4</link>
       <description>City/State: OVERLAND PARK, KS  •  Date/Time: 09/07/2026 at 12:05PM  •  County: WRIGHT (Troop G)</description>
       <guid isPermaLink="false">HERNANDEZ,_CHRISTIAN_I_09/07/2026_12:05PM</guid>
       <category>WRIGHT County</category>
