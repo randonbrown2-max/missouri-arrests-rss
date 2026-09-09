@@ -6,24 +6,31 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 08:39:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:57:27 +0000</lastBuildDate>
+    <item>
+      <title>RIKARD, JACOB B (Age: 37)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539405I#r47</link>
+      <description>City/State: OWENSVILLE, MO  •  Date/Time: 09/08/2026 at 10:33PM  •  County: PHELPS (Troop I)</description>
+      <guid isPermaLink="false">RIKARD,_JACOB_B_09/08/2026_10:33PM</guid>
+      <category>PHELPS County</category>
+    </item>
     <item>
       <title>HOUSTON, MITCHELL N (Age: 57)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539404I#r49</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539404I#r46</link>
       <description>City/State: ELDRIDGE, MO  •  Date/Time: 09/08/2026 at 9:11PM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">HOUSTON,_MITCHELL_N_09/08/2026_9:11PM</guid>
       <category>LACLEDE County</category>
     </item>
     <item>
       <title>BLAIR, ASHLEY N (Age: 40)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539352I#r21</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539352I#r18</link>
       <description>City/State: CABOOL, MO  •  Date/Time: 09/07/2026 at 8:20PM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">BLAIR,_ASHLEY_N_09/07/2026_8:20PM</guid>
       <category>LACLEDE County</category>
     </item>
     <item>
       <title>MORITZ, BRIAN J (Age: 42)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539403I#r11</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539403I#r8</link>
       <description>City/State: SAINT LOUIS, MO  •  Date/Time: 09/07/2026 at 6:10PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">MORITZ,_BRIAN_J_09/07/2026_6:10PM</guid>
       <category>PHELPS County</category>
