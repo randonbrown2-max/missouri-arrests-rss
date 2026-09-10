@@ -6,17 +6,17 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 15:52:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:57:19 +0000</lastBuildDate>
     <item>
       <title>RIKARD, JACOB B (Age: 37)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539405I#r19</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539405I#r16</link>
       <description>City/State: OWENSVILLE, MO  •  Date/Time: 09/08/2026 at 10:33PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">RIKARD,_JACOB_B_09/08/2026_10:33PM</guid>
       <category>PHELPS County</category>
     </item>
     <item>
       <title>HOUSTON, MITCHELL N (Age: 57)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539404I#r18</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539404I#r15</link>
       <description>City/State: ELDRIDGE, MO  •  Date/Time: 09/08/2026 at 9:11PM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">HOUSTON,_MITCHELL_N_09/08/2026_9:11PM</guid>
       <category>LACLEDE County</category>
