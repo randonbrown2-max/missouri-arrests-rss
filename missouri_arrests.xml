@@ -6,34 +6,27 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Sep 2026 03:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:35:24 +0000</lastBuildDate>
     <item>
       <title>THOMPSON, SETH L (Age: 28)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539489G#r44</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539489G#r33</link>
       <description>City/State: BIRCH TREE, MO  •  Date/Time: 09/10/2026 at 4:23PM  •  County: SHANNON (Troop G)</description>
       <guid isPermaLink="false">THOMPSON,_SETH_L_09/10/2026_4:23PM</guid>
       <category>SHANNON County</category>
     </item>
     <item>
       <title>NEAL, NEILSON N (Age: 50)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539478I#r42</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539478I#r31</link>
       <description>City/State: LICKING, MO  •  Date/Time: 09/10/2026 at 4:01PM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">NEAL,_NEILSON_N_09/10/2026_4:01PM</guid>
       <category>PULASKI County</category>
     </item>
     <item>
       <title>THEBEAU, JOHN E (Age: 63)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539483I#r32</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539483I#r20</link>
       <description>City/State: LICKING, MO  •  Date/Time: 09/10/2026 at 9:07AM  •  County: TEXAS (Troop I)</description>
       <guid isPermaLink="false">THEBEAU,_JOHN_E_09/10/2026_9:07AM</guid>
       <category>TEXAS County</category>
-    </item>
-    <item>
-      <title>RIKARD, JACOB B (Age: 37)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539405I#r0</link>
-      <description>City/State: OWENSVILLE, MO  •  Date/Time: 09/08/2026 at 10:33PM  •  County: PHELPS (Troop I)</description>
-      <guid isPermaLink="false">RIKARD,_JACOB_B_09/08/2026_10:33PM</guid>
-      <category>PHELPS County</category>
     </item>
   </channel>
 </rss>
