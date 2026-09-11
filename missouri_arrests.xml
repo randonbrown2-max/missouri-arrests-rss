@@ -6,24 +6,31 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Sep 2026 15:54:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 18:59:16 +0000</lastBuildDate>
+    <item>
+      <title>MONTEJANO-ORIGINALES, MANUEL A (Age: 35)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539530G#r47</link>
+      <description>City/State: MEXICO, MEXICO  •  Date/Time: 09/11/2026 at 8:40AM  •  County: HOWELL (Troop G)</description>
+      <guid isPermaLink="false">MONTEJANO-ORIGINALES,_MANUEL_A_09/11/2026_8:40AM</guid>
+      <category>HOWELL County</category>
+    </item>
     <item>
       <title>THOMPSON, SETH L (Age: 28)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539489G#r27</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539489G#r22</link>
       <description>City/State: BIRCH TREE, MO  •  Date/Time: 09/10/2026 at 4:23PM  •  County: SHANNON (Troop G)</description>
       <guid isPermaLink="false">THOMPSON,_SETH_L_09/10/2026_4:23PM</guid>
       <category>SHANNON County</category>
     </item>
     <item>
       <title>NEAL, NEILSON N (Age: 50)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539478I#r25</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539478I#r20</link>
       <description>City/State: LICKING, MO  •  Date/Time: 09/10/2026 at 4:01PM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">NEAL,_NEILSON_N_09/10/2026_4:01PM</guid>
       <category>PULASKI County</category>
     </item>
     <item>
       <title>THEBEAU, JOHN E (Age: 63)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539483I#r14</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539483I#r9</link>
       <description>City/State: LICKING, MO  •  Date/Time: 09/10/2026 at 9:07AM  •  County: TEXAS (Troop I)</description>
       <guid isPermaLink="false">THEBEAU,_JOHN_E_09/10/2026_9:07AM</guid>
       <category>TEXAS County</category>
