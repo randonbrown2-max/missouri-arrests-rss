@@ -6,47 +6,54 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Sep 2026 18:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:56:26 +0000</lastBuildDate>
+    <item>
+      <title>SAMUELS, DEVONTAE A (Age: 29)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539611G#r48</link>
+      <description>City/State: APPLE VALLEY, CA  •  Date/Time: 09/12/2026 at 12:25PM  •  County: HOWELL (Troop G)</description>
+      <guid isPermaLink="false">SAMUELS,_DEVONTAE_A_09/12/2026_12:25PM</guid>
+      <category>HOWELL County</category>
+    </item>
+    <item>
+      <title>NELSON, ETHAN L (Age: 19)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539602I#r45</link>
+      <description>City/State: LYNCHBURG, MO  •  Date/Time: 09/12/2026 at 9:07AM  •  County: LACLEDE (Troop I)</description>
+      <guid isPermaLink="false">NELSON,_ETHAN_L_09/12/2026_9:07AM</guid>
+      <category>LACLEDE County</category>
+    </item>
     <item>
       <title>GRONER, SARA R (Age: 48)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539604I#r49</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539604I#r44</link>
       <description>City/State: FULTON, MO  •  Date/Time: 09/12/2026 at 8:55AM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">GRONER,_SARA_R_09/12/2026_8:55AM</guid>
       <category>PHELPS County</category>
     </item>
     <item>
       <title>WASHINGTON, TYA A (Age: 27)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539578I#r38</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539578I#r32</link>
       <description>City/State: WAYNESVILLE, MO  •  Date/Time: 09/12/2026 at 1:51AM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">WASHINGTON,_TYA_A_09/12/2026_1:51AM</guid>
       <category>PULASKI County</category>
     </item>
     <item>
       <title>LIGHT, SHANE M (Age: 52)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539588I#r35</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539588I#r29</link>
       <description>City/State: LEBANON, MO  •  Date/Time: 09/12/2026 at 1:24AM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">LIGHT,_SHANE_M_09/12/2026_1:24AM</guid>
       <category>LACLEDE County</category>
     </item>
     <item>
       <title>CURTIS, AIMEE D (Age: 50)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539566I#r23</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539566I#r17</link>
       <description>City/State: NEWBURG, MO  •  Date/Time: 09/11/2026 at 11:12PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">CURTIS,_AIMEE_D_09/11/2026_11:12PM</guid>
       <category>PHELPS County</category>
     </item>
     <item>
       <title>MAYHALL, GAGE A (Age: 19)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539547G#r11</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539547G#r5</link>
       <description>City/State: WEST PLAINS, MO  •  Date/Time: 09/11/2026 at 3:25PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">MAYHALL,_GAGE_A_09/11/2026_3:25PM</guid>
-      <category>HOWELL County</category>
-    </item>
-    <item>
-      <title>MONTEJANO-ORIGINALES, MANUEL A (Age: 35)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539530G#r5</link>
-      <description>City/State: MEXICO, MEXICO  •  Date/Time: 09/11/2026 at 8:40AM  •  County: HOWELL (Troop G)</description>
-      <guid isPermaLink="false">MONTEJANO-ORIGINALES,_MANUEL_A_09/11/2026_8:40AM</guid>
       <category>HOWELL County</category>
     </item>
   </channel>
