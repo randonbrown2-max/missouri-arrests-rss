@@ -6,17 +6,17 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 17:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 22:57:18 +0000</lastBuildDate>
     <item>
       <title>SHANKS, GEORGE F (Age: 56)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539716I#r34</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539716I#r29</link>
       <description>City/State: CHICAGO, IL  •  Date/Time: 09/13/2026 at 6:15PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">SHANKS,_GEORGE_F_09/13/2026_6:15PM</guid>
       <category>PHELPS County</category>
     </item>
     <item>
       <title>BLACKWELL, CARRIE A (Age: 41)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539693I#r31</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539693I#r26</link>
       <description>City/State: SALEM, MO  •  Date/Time: 09/13/2026 at 3:13PM  •  County: DENT (Troop I)</description>
       <guid isPermaLink="false">BLACKWELL,_CARRIE_A_09/13/2026_3:13PM</guid>
       <category>DENT County</category>
