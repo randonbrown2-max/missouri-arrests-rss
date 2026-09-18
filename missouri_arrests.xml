@@ -6,17 +6,17 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 15:52:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:53:06 +0000</lastBuildDate>
     <item>
       <title>MIELCZAREK, KARINE S (Age: 64)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539916I#r40</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539916I#r37</link>
       <description>City/State: CEDAR LAKE, IN  •  Date/Time: 09/17/2026 at 10:33PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">MIELCZAREK,_KARINE_S_09/17/2026_10:33PM</guid>
       <category>PHELPS County</category>
     </item>
     <item>
       <title>CRABTREE, MICHAEL W (Age: 23)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539867I#r19</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I539867I#r16</link>
       <description>City/State: FREDERICKTOWN, MO  •  Date/Time: 09/17/2026 at 8:20AM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">CRABTREE,_MICHAEL_W_09/17/2026_8:20AM</guid>
       <category>PHELPS County</category>
