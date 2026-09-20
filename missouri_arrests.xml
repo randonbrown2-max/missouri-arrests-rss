@@ -6,31 +6,31 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Sep 2026 18:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 22:11:57 +0000</lastBuildDate>
     <item>
       <title>BEARDSLEE, CHASE E (Age: 25)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540084I#r26</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540084I#r24</link>
       <description>City/State: ROLLA, MO  •  Date/Time: 09/20/2026 at 12:34AM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">BEARDSLEE,_CHASE_E_09/20/2026_12:34AM</guid>
       <category>PHELPS County</category>
     </item>
     <item>
       <title>JACKSON, JATRAVIOUS M (Age: 21)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540065I#r18</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540065I#r16</link>
       <description>City/State: FORT LEONARD WOOD, MO  •  Date/Time: 09/19/2026 at 11:01PM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">JACKSON,_JATRAVIOUS_M_09/19/2026_11:01PM</guid>
       <category>PULASKI County</category>
     </item>
     <item>
       <title>POGUE, SAMUEL J (Age: 56)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540064I#r17</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540064I#r15</link>
       <description>City/State: ROLLA MO  •  Date/Time: 09/19/2026 at 10:49PM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">POGUE,_SAMUEL_J_09/19/2026_10:49PM</guid>
       <category>PHELPS County</category>
     </item>
     <item>
       <title>COTREL, WYATTE A (Age: 22)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540054G#r5</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540054G#r3</link>
       <description>City/State: SUCCESS, MO  •  Date/Time: 09/19/2026 at 8:08PM  •  County: TEXAS (Troop G)</description>
       <guid isPermaLink="false">COTREL,_WYATTE_A_09/19/2026_8:08PM</guid>
       <category>TEXAS County</category>
