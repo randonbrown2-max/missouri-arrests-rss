@@ -6,33 +6,26 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 03:27:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 09:36:55 +0000</lastBuildDate>
+    <item>
+      <title>SMOLOWITZ, JASON L (Age: 38)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540140I#r45</link>
+      <description>City/State: SANFORD, FL  •  Date/Time: 09/20/2026 at 11:27PM  •  County: PULASKI (Troop I)</description>
+      <guid isPermaLink="false">SMOLOWITZ,_JASON_L_09/20/2026_11:27PM</guid>
+      <category>PULASKI County</category>
+    </item>
     <item>
       <title>HALL, LUKE E (Age: 55)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540106I#r39</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540106I#r31</link>
       <description>City/State: LEBANON, MO  •  Date/Time: 09/20/2026 at 9:40AM  •  County: LACLEDE (Troop I)</description>
       <guid isPermaLink="false">HALL,_LUKE_E_09/20/2026_9:40AM</guid>
       <category>LACLEDE County</category>
     </item>
     <item>
       <title>BEARDSLEE, CHASE E (Age: 25)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540084I#r16</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540084I#r7</link>
       <description>City/State: ROLLA, MO  •  Date/Time: 09/20/2026 at 12:34AM  •  County: PHELPS (Troop I)</description>
       <guid isPermaLink="false">BEARDSLEE,_CHASE_E_09/20/2026_12:34AM</guid>
-      <category>PHELPS County</category>
-    </item>
-    <item>
-      <title>JACKSON, JATRAVIOUS M (Age: 21)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540065I#r8</link>
-      <description>City/State: FORT LEONARD WOOD, MO  •  Date/Time: 09/19/2026 at 11:01PM  •  County: PULASKI (Troop I)</description>
-      <guid isPermaLink="false">JACKSON,_JATRAVIOUS_M_09/19/2026_11:01PM</guid>
-      <category>PULASKI County</category>
-    </item>
-    <item>
-      <title>POGUE, SAMUEL J (Age: 56)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540064I#r7</link>
-      <description>City/State: ROLLA MO  •  Date/Time: 09/19/2026 at 10:49PM  •  County: PHELPS (Troop I)</description>
-      <guid isPermaLink="false">POGUE,_SAMUEL_J_09/19/2026_10:49PM</guid>
       <category>PHELPS County</category>
     </item>
   </channel>
