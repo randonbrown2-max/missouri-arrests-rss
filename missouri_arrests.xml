@@ -6,34 +6,27 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Sep 2026 22:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 03:27:03 +0000</lastBuildDate>
     <item>
       <title>TOMPKINS, CHARLES J (Age: 46)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540152G#r23</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540152G#r20</link>
       <description>City/State: MOUNTAIN GROVE, MO  •  Date/Time: 09/21/2026 at 8:46AM  •  County: WRIGHT (Troop G)</description>
       <guid isPermaLink="false">TOMPKINS,_CHARLES_J_09/21/2026_8:46AM</guid>
       <category>WRIGHT County</category>
     </item>
     <item>
       <title>STEWART, MIRANDA A (Age: 33)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540146G#r21</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540146G#r18</link>
       <description>City/State: POTTERSVILLE, MO  •  Date/Time: 09/21/2026 at 3:01AM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">STEWART,_MIRANDA_A_09/21/2026_3:01AM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>SMOLOWITZ, JASON L (Age: 38)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540140I#r15</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540140I#r12</link>
       <description>City/State: SANFORD, FL  •  Date/Time: 09/20/2026 at 11:27PM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">SMOLOWITZ,_JASON_L_09/20/2026_11:27PM</guid>
       <category>PULASKI County</category>
-    </item>
-    <item>
-      <title>HALL, LUKE E (Age: 55)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540106I#r0</link>
-      <description>City/State: LEBANON, MO  •  Date/Time: 09/20/2026 at 9:40AM  •  County: LACLEDE (Troop I)</description>
-      <guid isPermaLink="false">HALL,_LUKE_E_09/20/2026_9:40AM</guid>
-      <category>LACLEDE County</category>
     </item>
   </channel>
 </rss>
