@@ -6,24 +6,31 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 23:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 03:39:41 +0000</lastBuildDate>
+    <item>
+      <title>ALLRED, MICHAEL A (Age: 47)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540389I#r42</link>
+      <description>City/State: DIXON, MO  •  Date/Time: 09/25/2026 at 5:56PM  •  County: PULASKI (Troop I)</description>
+      <guid isPermaLink="false">ALLRED,_MICHAEL_A_09/25/2026_5:56PM</guid>
+      <category>PULASKI County</category>
+    </item>
     <item>
       <title>VENN, BRANDY L (Age: 48)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540367G#r47</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540367G#r33</link>
       <description>City/State: RAYMONDVILLE, MO  •  Date/Time: 09/25/2026 at 12:31PM  •  County: TEXAS (Troop G)</description>
       <guid isPermaLink="false">VENN,_BRANDY_L_09/25/2026_12:31PM</guid>
       <category>TEXAS County</category>
     </item>
     <item>
       <title>TRISTAN, STEVEN P (Age: 41)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540368G#r44</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540368G#r30</link>
       <description>City/State: SPRINGFIELD, MO  •  Date/Time: 09/25/2026 at 11:17AM  •  County: TEXAS (Troop G)</description>
       <guid isPermaLink="false">TRISTAN,_STEVEN_P_09/25/2026_11:17AM</guid>
       <category>TEXAS County</category>
     </item>
     <item>
       <title>JOHNSON, DEREK K (Age: 37)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540305G#r14</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540305G#r0</link>
       <description>City/State: ARLINGTON, TN  •  Date/Time: 09/24/2026 at 2:38PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">JOHNSON,_DEREK_K_09/24/2026_2:38PM</guid>
       <category>HOWELL County</category>
