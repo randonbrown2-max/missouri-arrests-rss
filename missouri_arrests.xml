@@ -6,34 +6,55 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 03:39:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 09:08:09 +0000</lastBuildDate>
+    <item>
+      <title>BUMGARDNER, AUTUMN T (Age: 34)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540445I#r47</link>
+      <description>City/State: DIXON, MO  •  Date/Time: 09/26/2026 at 1:18AM  •  County: PHELPS (Troop I)</description>
+      <guid isPermaLink="false">BUMGARDNER,_AUTUMN_T_09/26/2026_1:18AM</guid>
+      <category>PHELPS County</category>
+    </item>
+    <item>
+      <title>DUGGER, JEANNE A (Age: 44)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540421G#r39</link>
+      <description>City/State: GROVESPRING, MO  •  Date/Time: 09/25/2026 at 11:29PM  •  County: WRIGHT (Troop G)</description>
+      <guid isPermaLink="false">DUGGER,_JEANNE_A_09/25/2026_11:29PM</guid>
+      <category>WRIGHT County</category>
+    </item>
+    <item>
+      <title>WATRING, KAYLEE R (Age: 23)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540431I#r36</link>
+      <description>City/State: ST JAMES, MO  •  Date/Time: 09/25/2026 at 11:09PM  •  County: PHELPS (Troop I)</description>
+      <guid isPermaLink="false">WATRING,_KAYLEE_R_09/25/2026_11:09PM</guid>
+      <category>PHELPS County</category>
+    </item>
+    <item>
+      <title>GALYON, ADDISON C (Age: 42)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540406I#r15</link>
+      <description>City/State: HAMPSHIRE, IL  •  Date/Time: 09/25/2026 at 6:12PM  •  County: LACLEDE (Troop I)</description>
+      <guid isPermaLink="false">GALYON,_ADDISON_C_09/25/2026_6:12PM</guid>
+      <category>LACLEDE County</category>
+    </item>
     <item>
       <title>ALLRED, MICHAEL A (Age: 47)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540389I#r42</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540389I#r13</link>
       <description>City/State: DIXON, MO  •  Date/Time: 09/25/2026 at 5:56PM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">ALLRED,_MICHAEL_A_09/25/2026_5:56PM</guid>
       <category>PULASKI County</category>
     </item>
     <item>
       <title>VENN, BRANDY L (Age: 48)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540367G#r33</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540367G#r3</link>
       <description>City/State: RAYMONDVILLE, MO  •  Date/Time: 09/25/2026 at 12:31PM  •  County: TEXAS (Troop G)</description>
       <guid isPermaLink="false">VENN,_BRANDY_L_09/25/2026_12:31PM</guid>
       <category>TEXAS County</category>
     </item>
     <item>
       <title>TRISTAN, STEVEN P (Age: 41)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540368G#r30</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540368G#r0</link>
       <description>City/State: SPRINGFIELD, MO  •  Date/Time: 09/25/2026 at 11:17AM  •  County: TEXAS (Troop G)</description>
       <guid isPermaLink="false">TRISTAN,_STEVEN_P_09/25/2026_11:17AM</guid>
       <category>TEXAS County</category>
-    </item>
-    <item>
-      <title>JOHNSON, DEREK K (Age: 37)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540305G#r0</link>
-      <description>City/State: ARLINGTON, TN  •  Date/Time: 09/24/2026 at 2:38PM  •  County: HOWELL (Troop G)</description>
-      <guid isPermaLink="false">JOHNSON,_DEREK_K_09/24/2026_2:38PM</guid>
-      <category>HOWELL County</category>
     </item>
   </channel>
 </rss>
