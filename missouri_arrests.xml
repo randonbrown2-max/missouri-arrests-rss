@@ -6,17 +6,17 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Sep 2026 10:36:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 19:16:28 +0000</lastBuildDate>
     <item>
       <title>HANNA, DAVID J (Age: 44)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540575I#r32</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540575I#r28</link>
       <description>City/State: GERALD, MO  •  Date/Time: 09/27/2026 at 5:19PM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">HANNA,_DAVID_J_09/27/2026_5:19PM</guid>
       <category>PULASKI County</category>
     </item>
     <item>
       <title>TEMPLETON, DUSTIN D (Age: 28)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540528I#r12</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540528I#r8</link>
       <description>City/State: DIXON, MO  •  Date/Time: 09/27/2026 at 1:45AM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">TEMPLETON,_DUSTIN_D_09/27/2026_1:45AM</guid>
       <category>PULASKI County</category>
