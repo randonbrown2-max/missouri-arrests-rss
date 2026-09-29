@@ -6,31 +6,38 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 10:24:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:40:53 +0000</lastBuildDate>
+    <item>
+      <title>SLATER, ASHLEY N (Age: 32)</title>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540654G#r49</link>
+      <description>City/State: WEST PLAINS, MO  •  Date/Time: 09/29/2026 at 9:31AM  •  County: HOWELL (Troop G)</description>
+      <guid isPermaLink="false">SLATER,_ASHLEY_N_09/29/2026_9:31AM</guid>
+      <category>HOWELL County</category>
+    </item>
     <item>
       <title>WORLEY, CONNIE (Age: 48)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540610G#r32</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540610G#r28</link>
       <description>City/State: WILLOW SPRINGS, MO  •  Date/Time: 09/28/2026 at 2:40PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">WORLEY,_CONNIE_09/28/2026_2:40PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>SIZEMORE, MADISON M (Age: 24)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540609G#r31</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540609G#r27</link>
       <description>City/State: WILLOW SPRINGS, MO  •  Date/Time: 09/28/2026 at 1:50PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">SIZEMORE,_MADISON_M_09/28/2026_1:50PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>FIELD, WESLEE A (Age: 25)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540606G#r29</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540606G#r25</link>
       <description>City/State: WILLOW SPRINGS, MO  •  Date/Time: 09/28/2026 at 11:45AM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">FIELD,_WESLEE_A_09/28/2026_11:45AM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>HANNA, DAVID J (Age: 44)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540575I#r5</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540575I#r1</link>
       <description>City/State: GERALD, MO  •  Date/Time: 09/27/2026 at 5:19PM  •  County: PULASKI (Troop I)</description>
       <guid isPermaLink="false">HANNA,_DAVID_J_09/27/2026_5:19PM</guid>
       <category>PULASKI County</category>
