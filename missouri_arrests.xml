@@ -6,45 +6,45 @@
     <description>Automated RSS stream parsing arrest logs for Texas County, MO and surrounding counties.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 04:06:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:37:56 +0000</lastBuildDate>
     <item>
       <title>MCBRIDE, NICHOLAS F (Age: 25)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540678G#r45</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540678G#r42</link>
       <description>City/State: MANSFIELD, MO  •  Date/Time: 09/29/2026 at 5:53PM  •  County: DOUGLAS (Troop G)</description>
       <guid isPermaLink="false">MCBRIDE,_NICHOLAS_F_09/29/2026_5:53PM</guid>
       <category>DOUGLAS County</category>
     </item>
     <item>
       <title>GLASSCOCK, PHILLIP R (Age: 31)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540669G#r34</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540669G#r31</link>
       <description>City/State: WILFORD, AR  •  Date/Time: 09/29/2026 at 1:15PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">GLASSCOCK,_PHILLIP_R_09/29/2026_1:15PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>SLATER, ASHLEY N (Age: 32)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540654G#r29</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540654G#r26</link>
       <description>City/State: WEST PLAINS, MO  •  Date/Time: 09/29/2026 at 9:31AM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">SLATER,_ASHLEY_N_09/29/2026_9:31AM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>WORLEY, CONNIE (Age: 48)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540610G#r7</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540610G#r4</link>
       <description>City/State: WILLOW SPRINGS, MO  •  Date/Time: 09/28/2026 at 2:40PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">WORLEY,_CONNIE_09/28/2026_2:40PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>SIZEMORE, MADISON M (Age: 24)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540609G#r6</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540609G#r3</link>
       <description>City/State: WILLOW SPRINGS, MO  •  Date/Time: 09/28/2026 at 1:50PM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">SIZEMORE,_MADISON_M_09/28/2026_1:50PM</guid>
       <category>HOWELL County</category>
     </item>
     <item>
       <title>FIELD, WESLEE A (Age: 25)</title>
-      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540606G#r4</link>
+      <link>https://www.mshp.dps.missouri.gov/HP71/ArrestDetailsAction?TW01REPORTNUMBER=I540606G#r1</link>
       <description>City/State: WILLOW SPRINGS, MO  •  Date/Time: 09/28/2026 at 11:45AM  •  County: HOWELL (Troop G)</description>
       <guid isPermaLink="false">FIELD,_WESLEE_A_09/28/2026_11:45AM</guid>
       <category>HOWELL County</category>
